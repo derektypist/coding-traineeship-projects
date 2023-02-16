@@ -1,1 +1,2 @@
-# coding-traineeship-projects
+# Coding Traineeship Projects
+
