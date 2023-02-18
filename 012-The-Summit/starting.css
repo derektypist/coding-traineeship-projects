@@ -1,0 +1,33 @@
+
+
+.nav-link {
+    text-decoration: none;
+  }
+  
+  .nav-link:hover {
+    color: #5495ff;
+  }
+  
+  .btn {
+    background-color: #2176FF;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #FFFFFF;
+    color: #2176FF;
+    transition: color .1s ease-in, background-color .1s ease-in;
+  }
+  
+  .btn:active {
+    font-size: 18px;
+    transition: font-size .1s ease-in-out;
+  }
