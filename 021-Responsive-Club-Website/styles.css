@@ -1,0 +1,146 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Body */
+body {
+  font-family: "Roboto", Arial, Verdana, sans-serif;
+  font-size: 20px;
+  margin: 0;
+  background-color: pink;
+}
+
+/* Navigation Bar */
+.bar {
+  padding-top: 1rem;
+  background-color: darkblue;
+  color: pink;
+}
+
+/* Introduction */
+.intro {
+  height: 32rem;
+  padding-top: 1rem;
+  background-image: url('kari-shea-1SAnrIxw5OY-unsplash.jpg');
+  background-position: center;
+  background-repeat: none;
+}
+
+.intro img {
+  width: 15rem;
+  display: block;
+  margin: auto;
+  margin-top: 4rem;
+}
+
+.intro h1 {
+  color: pink;
+  font-size: 2rem;
+  margin-top: 10rem;
+  padding: 2rem;
+  background-color: rgba(210,56,108,0.9);
+  text-align: center;
+}
+
+/* Unordered Lists */
+ul {
+  list-style: none;
+  margin: 0;
+}
+
+li {
+  color: pink;
+  padding: 0.5rem 1.5rem;
+  margin-right: 1.5rem;
+  display: inline-block;
+}
+
+/* Summaries, Testimonial, Photos and Meetup */
+.summary, .testimonial, .photos, .meetup {
+  margin: 4em auto;
+}
+
+.summary {
+  padding: 0 1rem;
+}
+
+.summary p {
+  color: purple;
+}
+
+.testimonial {
+  background-color: #009B77;
+  color: yellow;
+  height: 28rem;
+  padding: 0 1rem;
+  padding-top: 1rem;
+}
+
+.testimonial h2 {
+  font-size: 2.5rem;
+  color: yellow;
+}
+
+.summary h2 {
+  color: #d2386c;
+}
+
+.photos img {
+  width: 30%;
+  margin: 1.5%;
+}
+
+.meetup {
+  margin-bottom: 2rem;
+}
+
+.meetup img {
+  width: 50%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.meetup h3 {
+  color: #d2386c;
+  text-align: center;
+}
+
+/* Media Queries */
+@media only screen and (max-width: 1048px) {
+    .photos img {
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+  .intro h1 {
+    margin-top: 2rem;
+  }
+
+  .intro {
+    max-height: 200px;
+  }
+
+  .photos img {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  li {
+    display: block;
+    text-align: center;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .testimonial h2 {
+    font-size: 2rem;
+  }
+
+  .photos img {
+    width: 100%;
+  }
+}
