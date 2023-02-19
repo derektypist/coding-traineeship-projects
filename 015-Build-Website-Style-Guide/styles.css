@@ -1,0 +1,117 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Exo&family=Roboto&family=Special+Elite&display=swap');
+
+/* Body */
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0 10%;
+}
+
+h1 {
+  text-align: center;
+}
+
+/* Containers */
+.container {
+  border: 2px solid #009B77;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+/* Colors */
+.color-container, .font-container, .text-container {
+  width: 100%;
+}
+
+.color-panel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.green-ash {
+  background-color: #A0DAA9;
+  color: #000000;
+}
+
+.raspberry-sorbet {
+  background-color: #D2386C;
+  color: #FFFFFF;
+}
+
+.classic-blue {
+  background-color: #34568B;
+  color: #FFFFFF;
+}
+
+.flame-scarlet {
+  background-color: #CD212A;
+  color: #FFFFFF;
+}
+
+.eclipse {
+  background-color: #343148;
+  color: #FFFFFF;
+}
+
+/* Fonts */
+.font-panel {
+  width: 50%;
+  display: inline-block;
+}
+
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.regular {
+  font-style: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.exo {
+  font-family: "Exo", sans-serif;
+}
+
+.special-elite {
+  font-family: "Special Elite", cursive;
+}
+
+/* Text */
+.text-panel h1 {
+  text-align: left;
+  font-weight: 700;
+  font-size: 36px;
+  font-family: "Roboto", sans-serif;
+}
+
+.text-panel h2 {
+  font-weight: 500;
+  font-size: 20px;
+  font-family: "Exo", sans-serif;
+}
+
+.text-panel p {
+  font-weight: 400;
+  font-size: 16px;
+  font-family: "Roboto", sans-serif;
+}
+
+
+.flame-scarlet-text {
+  color: #CD212A;
+}
