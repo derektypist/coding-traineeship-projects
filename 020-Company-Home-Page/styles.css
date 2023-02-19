@@ -1,0 +1,113 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Body */
+body {
+  font-family: "Roboto", Arial, Verdana, sans-serif;
+  margin: 0;
+  font-size: 20px;
+  background-color: white;
+  text-align: center;
+}
+
+a {
+  color: black;
+}
+
+h2,h3,h4,p {
+  margin: 0;
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  margin: 0 10%;
+}
+
+.navbar p {
+  display: inline-block;
+  padding: 10px 10px;
+}
+
+main {
+  padding-top: 35px;
+}
+
+#mission {
+  display: flex;
+  height: 400px;
+  background-image: url("gavin-allanwood-ndpX28miBtE-unsplash.jpg");
+  padding-top: 35px;
+}
+
+#mission .content {
+  margin: auto;
+  background-color: white;
+  width: 100%;
+}
+
+#portfolio {
+  min-height: 500px;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.shoes {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.shoe {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.shoe img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  padding: 10px;
+  height: auto;
+}
+
+.shoe span {
+  padding: 5px;
+  min-width: 240px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.team-person {
+  padding-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-image: url("sasha-pleshco-nBRHY7YZ3M0-unsplash.jpg");
+}
+
+.teammate {
+  padding: 10px;
+  flex-basis: 280px;
+  color: white;
+}
+
+.teammate img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: auto;
+}
+
+.content, .copyright {
+  padding-top: 20px;
+}
