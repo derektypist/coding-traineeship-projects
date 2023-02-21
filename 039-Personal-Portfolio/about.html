@@ -33,6 +33,7 @@
         <div class="col-sm-6">
           <img src="https://avatars2.githubusercontent.com/u/41344434?s=400&u=736c38a4db3a0ab06e0d6ac1acd3e1fd4ee6cc7a&v=4">
           <p>I'm a skilled Full Stack Developer with a wealth of diverse life and technical experience that I bring to every project.  I work quickly and effectively in getting things built and working across the stack.  I'm an excellent communicator who thrives in bright and enthusiastic teams and I'm also a self starter when working solo.  I follow form as well as function. I know that the aesthetics of effective design combined with application speed, security and reliability combine to create a user experience.</p>
+          <p id="time-container"></p>
         </div>
       </div>
     </section>
@@ -48,5 +49,13 @@
         <div class="col-sm-2"><a href="https://www.pinterest.co.uk/derekthesec/" target="_blank">Pinterest</a></div>
       </div>
     </footer>
+    <script>
+      // Date Information
+      const timeContainer = document.getElementById("time-container");
+      const GITHUB_JOIN = new Date("2018-07-17");
+      const now = new Date();
+      const differenceInYears = now.getFullYear() - GITHUB_JOIN.getFullYear();
+      timeContainer.innerHTML = `I have been on GitHub for ${difference} years`;
+    </script>
   </body>
 </html>
