@@ -1,3 +1,3 @@
 # Adopt A Pet
 
-[GitHub Repository](https://github.com/derektypist/adopt-a-pet)
+[Adopt A Pet GitHub Repository](https://github.com/derektypist/adopt-a-pet)
