@@ -8,7 +8,7 @@ export const ContactPicker = (props) => {
     <form>
       <label htmlFor="contactList">Choose Contact:</label>
       <select id="contactList" onChange={props.onChange} required >
-        <option value={props.defaultListValue} key="default" selected="selected" >{props.defaultListValue}</option>
+        <option value={props.defaultListValue} key="default" selected="selected" >{props.defaultListValue}</option>{names}
       </select>
     </form>
   );
