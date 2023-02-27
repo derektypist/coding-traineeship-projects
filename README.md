@@ -9,3 +9,10 @@ The training is delivered via multimedia rich video tutorials, PowerPoint slides
 - [Certificate in HTML & CSS](Completion-Certificates/html-and-css.pdf)
 - [Certificate in JavaScript](Completion-Certificates/javascript.pdf)
 - [Certificate in Python](Completion-Certificates/python.pdf)
+
+## Step 2
+
+
+### Acknowledgements
+
+- [Atanas Dimitrov](https://github.com/atanas-dim)
