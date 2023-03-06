@@ -1,0 +1,93 @@
+/* Import Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+  font-size: 16px;
+  --spacing0: 4px;
+  --spacing1: 8px;
+  --spacing2: 16px;
+  --spacing3: 24px;
+
+  --radius1: 8px;
+  --radius2: 16px;
+  --radius3: 24px;
+  --radius4: 32px;
+
+  --font-size0: 1.75rem;
+  --font-size1: 1.5rem;
+  --font-size2: 1.125rem;
+  --font-size3: 1rem;
+  --font-size4: 0.875rem;
+
+  
+}
+
+body {
+  margin: 0;
+  font-family: "Roboto", Arial, Verdana, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+
+#app-container {
+  display: grid;
+  grid-template-columns: 1fr minmax(200px,620px) minmax(120px,280px) 1fr;
+  grid-template-rows: fit-content(100%) fit-content(100%) auto;
+  gap: var(--spacing3);
+}
+
+header {
+  display: grid;
+  grid-column: 1/-1;
+  grid-template-columns: 1fr minmax(200px,620px) minmax(120px,280px) 1fr;
+  gap: var(--spacing3);
+}
+
+nav {
+  grid-column: 2/3;
+}
+
+main {
+  grid-column: 2/3;
+}
+
+aside {
+  grid-column: 3/4;
+}
+
+@media only screen and (max-width: 768px) {
+  #app-container {
+    grid-template-columns: 1fr;
+    gap: var(--spacing2);
+  }
+
+  header {
+    grid-template-columns: 1fr minmax(140px,100%) 1fr 1fr;
+    gap: var(--spacing2);
+  }
+
+  aside {
+    grid-column: 1;
+    grid-row: 2;
+    margin: 0 var(--spacing2);
+  }
+
+  main {
+    grid-column: 1;
+    grid-row: 3;
+    margin: 0 var(--spacing2);
+  }
+
+  aside .card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
