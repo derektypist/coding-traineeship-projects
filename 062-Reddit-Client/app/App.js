@@ -1,7 +1,6 @@
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import "../features/Theme/theme.css";
-import "./App.css";
 import Header from "../features/Header/Header";
 import Home from "../features/Home/Home";
 import Subreddit from "../features/Subreddit/Subreddit";
