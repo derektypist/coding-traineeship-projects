@@ -1,0 +1,8 @@
+.card-search-heading {
+    color: var(--color-highlight);
+    width: 100%;
+}
+
+.search-heading h2 {
+    margin: var(--spacing2);
+}
