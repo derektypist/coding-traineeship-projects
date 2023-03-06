@@ -1,0 +1,18 @@
+.filters-card nav {
+    padding: var(--spacing1) var(--spacing3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filters-list {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: var(--color-highlight);
+}
+
+button.filter {
+    font-weight: 700;
+}
