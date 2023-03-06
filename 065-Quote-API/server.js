@@ -1,5 +1,5 @@
-import express from "express";
-import morgan from "morgan";
+const express = require("express");
+const morgan = require("morgan");
 const app = express();
 
 import { quotes } from "./data";
