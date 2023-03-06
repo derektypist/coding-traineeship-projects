@@ -1,0 +1,22 @@
+.notFoundCard {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.notFoundHeading {
+    color: var(--color-highlight);
+    margin: var(--spacing2);
+}
+
+.notFoundIcon {
+    color: var(--color-highlight);
+    width: 32px;
+    height: 32px;
+    margin: var(--spacing2) var(--spacing2) 0;
+}
+
+.notFoundCard .nav-link {
+    margin: 0 var(--spacing2) var(--spacing2);
+}
