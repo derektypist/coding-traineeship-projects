@@ -1,0 +1,22 @@
+.comment-loading {
+    margin: var(--spacing2);
+}
+
+.skeleton-main-comment {
+    border-top: 1px solid var(--color-outline);
+    padding: var(--spacing2) 0 0;
+}
+
+.skeleton-main-comment div {
+    margin-bottom: var(--spacing1);
+}
+
+.skeleton-comment-details {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.skeleton-comment-details > :first-child {
+    margin-right: var(--spacing0);
+}
