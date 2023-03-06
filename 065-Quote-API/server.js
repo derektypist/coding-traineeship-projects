@@ -1,9 +1,9 @@
-const express = require("express");
-const morgan = require("morgan");
+import express from "express";
+import morgan from "morgan";
 const app = express();
 
-const { quotes } = require("./data");
-const { getRandomElement } = require("./utils");
+import { quotes } from "./data";
+import { getRandomElement } from "./utils";
 
 const PORT = process.env.PORT || 4001;
 
