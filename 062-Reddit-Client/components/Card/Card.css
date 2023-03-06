@@ -8,6 +8,7 @@ main .card {
     margin-bottom: var(--spacing3);
 }
 
+/* Media Queries */
 @media only screen and (max-width: 768px) {
     main .card {
         margin-bottom: var(--spacing2);
