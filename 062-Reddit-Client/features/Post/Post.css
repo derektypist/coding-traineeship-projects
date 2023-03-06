@@ -1,0 +1,140 @@
+.card-post {
+    width: 100%;
+}
+
+.post-details {
+    font-size: var(--font-size4);
+    color: var(--color-details);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: var(--spacing2) var(--spacing2) 0;
+    padding-bottom: var(--spacing1)
+}
+
+.author-profile {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.profile-names {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.author-avatar {
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--color-details);
+    border-radius: var(--radius4);
+    margin-right: var(--spacing0)
+}
+
+.subreddit-name {
+    color: var(--color-text-main);
+    font-weight: 700;
+}
+
+.subreddit-avatar {
+    width: 32px;
+    height: 32px;
+    border: 1px solid var(--color-outline);
+    border-radius: var(--radius4);
+    margin-right: var(--spacing1);
+    background: white;
+}
+
+.profile-names div {
+    margin: 0 var(--spacing1) 0;
+}
+
+.username {
+    color: var(--color-text-main);
+}
+
+.date {
+    text-align: right;
+}
+
+.post-text {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding-top: var(--spacing1);
+    margin: 0 var(--spacing2) var(--spacing2);
+}
+
+.post-image {
+    background: var(--color-outline);
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid var(--color-outline);
+}
+
+.post-image img {
+    width: 100%;
+    max-height: 480px;
+    height: 100%;
+    object-fit: contain;
+    margin: 0 auto;
+}
+
+.video-link {
+    padding: var(--spacing1) var(--spacing2) var(--spacing2);
+}
+
+.comments-container {
+    border-top: 1px solid var(--color-outline);
+}
+
+.comments-btn,
+.show-more-btn {
+    font-size: var(--font-size4);
+    color: var(--color-details);
+    background: transparent;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    cursor: pointer;
+}
+
+.comments-btn {
+    margin: var(--spacing1) var(--spacing2);
+}
+
+.show-more-btn {
+    margin: 0 auto var(--spacing2) auto;
+}
+
+@media (hover: hover) {
+
+    .comments-btn:hover,
+    .show-more-btn:hover {
+        text-decoration: underline;
+    }
+}
+
+.comments-btn> :first-child {
+    width: 16px;
+    height: 16px;
+    margin-right: var(--spacing0);
+}
+
+/* Media Queries */
+@media only screen and (max-width: 768px) {
+    .profile-names {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .post-details {
+        align-items: flex-start;
+    }
+
+    .profile-names div {
+        margin: 0 var(--spacing1) var(--spacing0) 0;
+    }
+}
