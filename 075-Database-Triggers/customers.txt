@@ -1,0 +1,4 @@
+customer_id,first_name,last_name,email_address,home_phone,city,state_name,years_old
+1,Edward,Lewis,Edward.Lewis@example.com,202-555-0264,Pittsburgh,Pennsylvania,82
+2,Frances,Campbell,Frances.Campbell@example.com,202-555-0073,North Las Vegas,Nevada,10
+3,Dennis,Hall,Dennis.Hall@example.com,202-555-0424,Chula Vista,California,21
