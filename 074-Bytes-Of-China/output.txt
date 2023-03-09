@@ -1,0 +1,541 @@
+SET
+CREATE TABLE
+constraint_name|table_name|column_name
+restaurant_pkey|restaurant|id
+(1 row)
+CREATE TABLE
+constraint_name|table_name|column_name
+address_pkey|address|id
+address_name_id_key|address|name_id
+address_name_id_fkey|address|name_id
+(3 rows)
+CREATE TABLE
+constraint_name|table_name|column_name
+category_pkey|category|id
+(1 row)
+CREATE TABLE
+constraint_name|table_name|column_name
+dish_pkey|dish|id
+(1 row)
+CREATE TABLE
+constraint_name|table_name|column_name
+review_pkey|review|id
+review_restaurant_id_fkey|review|restaurant_id
+(2 rows)
+CREATE TABLE
+constraint_name|table_name|column_name
+categories_dishes_pkey|categories_dishes|category_id
+categories_dishes_pkey|categories_dishes|dish_id
+categories_dishes_category_id_fkey|categories_dishes|category_id
+categories_dishes_dish_id_fkey|categories_dishes|dish_id
+(4 rows)
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+INSERT 0 1
+name|street_number|street_name|telephone
+Bytes of China|2020|Busy Street|6175551212
+(1 row)
+best_rating
+5.0
+(1 row)
+dish_name|price|category
+Beef with Garlic Sauce|$6.95|HS
+Beef with Garlic Sauce|$16.95|LS
+Beef with Garlic Sauce|$15.95|LS
+Beef with Garlic Sauce|$8.95|LS
+Beef with Garlic Sauce|$8.95|LS
+Beef with Garlic Sauce|$8.95|LS
+Beef with Garlic Sauce|$6.95|LS
+Beef with Garlic Sauce|$17.95|LS
+Beef with Garlic Sauce|$6.95|LS
+Beef with Garlic Sauce|$6.95|C 
+Beef with Garlic Sauce|$6.95|C 
+Beef with Garlic Sauce|$8.95|C 
+Beef with Garlic Sauce|$8.95|C 
+Beef with Garlic Sauce|$8.95|C 
+Beef with Garlic Sauce|$15.95|C 
+Beef with Garlic Sauce|$16.95|C 
+Beef with Garlic Sauce|$17.95|C 
+Beef with Garlic Sauce|$17.95|HS
+Beef with Garlic Sauce|$16.95|HS
+Beef with Garlic Sauce|$15.95|HS
+Beef with Garlic Sauce|$8.95|HS
+Beef with Garlic Sauce|$8.95|HS
+Beef with Garlic Sauce|$8.95|HS
+Beef with Garlic Sauce|$6.95|HS
+Chicken Wings|$6.95|LS
+Chicken Wings|$17.95|HS
+Chicken Wings|$6.95|HS
+Chicken Wings|$6.95|HS
+Chicken Wings|$8.95|HS
+Chicken Wings|$8.95|HS
+Chicken Wings|$8.95|HS
+Chicken Wings|$15.95|HS
+Chicken Wings|$16.95|HS
+Chicken Wings|$6.95|LS
+Chicken Wings|$17.95|LS
+Chicken Wings|$16.95|LS
+Chicken Wings|$15.95|LS
+Chicken Wings|$8.95|LS
+Chicken Wings|$8.95|LS
+Chicken Wings|$8.95|LS
+Chicken Wings|$6.95|C 
+Chicken Wings|$6.95|C 
+Chicken Wings|$8.95|C 
+Chicken Wings|$8.95|C 
+Chicken Wings|$8.95|C 
+Chicken Wings|$15.95|C 
+Chicken Wings|$16.95|C 
+Chicken Wings|$17.95|C 
+Chicken with Broccoli|$15.95|C 
+Chicken with Broccoli|$6.95|HS
+Chicken with Broccoli|$6.95|C 
+Chicken with Broccoli|$8.95|C 
+Chicken with Broccoli|$8.95|C 
+Chicken with Broccoli|$8.95|C 
+Chicken with Broccoli|$16.95|C 
+Chicken with Broccoli|$17.95|C 
+Chicken with Broccoli|$6.95|C 
+Chicken with Broccoli|$6.95|LS
+Chicken with Broccoli|$6.95|LS
+Chicken with Broccoli|$8.95|LS
+Chicken with Broccoli|$8.95|LS
+Chicken with Broccoli|$8.95|LS
+Chicken with Broccoli|$15.95|LS
+Chicken with Broccoli|$16.95|LS
+Chicken with Broccoli|$17.95|LS
+Chicken with Broccoli|$17.95|HS
+Chicken with Broccoli|$16.95|HS
+Chicken with Broccoli|$15.95|HS
+Chicken with Broccoli|$8.95|HS
+Chicken with Broccoli|$8.95|HS
+Chicken with Broccoli|$8.95|HS
+Chicken with Broccoli|$6.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$17.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$6.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$17.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$16.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$15.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$16.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$15.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$6.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$6.95|LS
+Fresh Mushroom with Snow Peapods and Baby Corns|$6.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$6.95|C 
+Fresh Mushroom with Snow Peapods and Baby Corns|$6.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$8.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$15.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$16.95|HS
+Fresh Mushroom with Snow Peapods and Baby Corns|$17.95|HS
+Hunan Special Half & Half|$17.95|HS
+Hunan Special Half & Half|$6.95|C 
+Hunan Special Half & Half|$6.95|C 
+Hunan Special Half & Half|$8.95|C 
+Hunan Special Half & Half|$8.95|C 
+Hunan Special Half & Half|$8.95|C 
+Hunan Special Half & Half|$15.95|C 
+Hunan Special Half & Half|$16.95|C 
+Hunan Special Half & Half|$17.95|C 
+Hunan Special Half & Half|$6.95|LS
+Hunan Special Half & Half|$6.95|LS
+Hunan Special Half & Half|$8.95|LS
+Hunan Special Half & Half|$8.95|LS
+Hunan Special Half & Half|$8.95|LS
+Hunan Special Half & Half|$15.95|LS
+Hunan Special Half & Half|$16.95|LS
+Hunan Special Half & Half|$17.95|LS
+Hunan Special Half & Half|$6.95|HS
+Hunan Special Half & Half|$6.95|HS
+Hunan Special Half & Half|$8.95|HS
+Hunan Special Half & Half|$8.95|HS
+Hunan Special Half & Half|$8.95|HS
+Hunan Special Half & Half|$15.95|HS
+Hunan Special Half & Half|$16.95|HS
+Sesame Chicken|$6.95|C 
+Sesame Chicken|$17.95|LS
+Sesame Chicken|$6.95|LS
+Sesame Chicken|$16.95|LS
+Sesame Chicken|$15.95|LS
+Sesame Chicken|$8.95|LS
+Sesame Chicken|$8.95|LS
+Sesame Chicken|$8.95|LS
+Sesame Chicken|$6.95|LS
+Sesame Chicken|$17.95|C 
+Sesame Chicken|$16.95|C 
+Sesame Chicken|$15.95|C 
+Sesame Chicken|$8.95|C 
+Sesame Chicken|$8.95|C 
+Sesame Chicken|$8.95|C 
+Sesame Chicken|$17.95|HS
+Sesame Chicken|$16.95|HS
+Sesame Chicken|$15.95|HS
+Sesame Chicken|$8.95|HS
+Sesame Chicken|$8.95|HS
+Sesame Chicken|$8.95|HS
+Sesame Chicken|$6.95|HS
+Sesame Chicken|$6.95|HS
+Sesame Chicken|$6.95|C 
+Special Minced Chicken|$15.95|C 
+Special Minced Chicken|$8.95|HS
+Special Minced Chicken|$8.95|HS
+Special Minced Chicken|$8.95|HS
+Special Minced Chicken|$15.95|HS
+Special Minced Chicken|$16.95|HS
+Special Minced Chicken|$17.95|HS
+Special Minced Chicken|$17.95|C 
+Special Minced Chicken|$16.95|C 
+Special Minced Chicken|$6.95|HS
+Special Minced Chicken|$8.95|C 
+Special Minced Chicken|$8.95|C 
+Special Minced Chicken|$8.95|C 
+Special Minced Chicken|$6.95|C 
+Special Minced Chicken|$6.95|C 
+Special Minced Chicken|$6.95|HS
+Special Minced Chicken|$6.95|LS
+Special Minced Chicken|$6.95|LS
+Special Minced Chicken|$8.95|LS
+Special Minced Chicken|$8.95|LS
+Special Minced Chicken|$8.95|LS
+Special Minced Chicken|$15.95|LS
+Special Minced Chicken|$16.95|LS
+Special Minced Chicken|$17.95|LS
+Sweet and Sour Chicken|$16.95|HS
+Sweet and Sour Chicken|$15.95|HS
+Sweet and Sour Chicken|$8.95|HS
+Sweet and Sour Chicken|$8.95|HS
+Sweet and Sour Chicken|$8.95|HS
+Sweet and Sour Chicken|$6.95|HS
+Sweet and Sour Chicken|$6.95|HS
+Sweet and Sour Chicken|$6.95|LS
+Sweet and Sour Chicken|$6.95|C 
+Sweet and Sour Chicken|$8.95|LS
+Sweet and Sour Chicken|$8.95|LS
+Sweet and Sour Chicken|$8.95|LS
+Sweet and Sour Chicken|$15.95|LS
+Sweet and Sour Chicken|$16.95|LS
+Sweet and Sour Chicken|$17.95|LS
+Sweet and Sour Chicken|$6.95|LS
+Sweet and Sour Chicken|$17.95|HS
+Sweet and Sour Chicken|$17.95|C 
+Sweet and Sour Chicken|$16.95|C 
+Sweet and Sour Chicken|$15.95|C 
+Sweet and Sour Chicken|$8.95|C 
+Sweet and Sour Chicken|$8.95|C 
+Sweet and Sour Chicken|$8.95|C 
+Sweet and Sour Chicken|$6.95|C 
+(192 rows)
+category|dish_name|price
+C |Chicken with Broccoli|$6.95
+C |Chicken with Broccoli|$6.95
+C |Chicken with Broccoli|$8.95
+C |Chicken with Broccoli|$8.95
+C |Chicken with Broccoli|$8.95
+C |Chicken with Broccoli|$15.95
+C |Chicken with Broccoli|$16.95
+C |Chicken with Broccoli|$17.95
+C |Sweet and Sour Chicken|$6.95
+C |Sweet and Sour Chicken|$6.95
+C |Sweet and Sour Chicken|$8.95
+C |Sweet and Sour Chicken|$8.95
+C |Sweet and Sour Chicken|$8.95
+C |Sweet and Sour Chicken|$15.95
+C |Sweet and Sour Chicken|$16.95
+C |Sweet and Sour Chicken|$17.95
+C |Chicken Wings|$6.95
+C |Chicken Wings|$6.95
+C |Chicken Wings|$8.95
+C |Chicken Wings|$8.95
+C |Chicken Wings|$8.95
+C |Chicken Wings|$15.95
+C |Chicken Wings|$16.95
+C |Chicken Wings|$17.95
+C |Beef with Garlic Sauce|$6.95
+C |Beef with Garlic Sauce|$6.95
+C |Beef with Garlic Sauce|$8.95
+C |Beef with Garlic Sauce|$8.95
+C |Beef with Garlic Sauce|$8.95
+C |Beef with Garlic Sauce|$15.95
+C |Beef with Garlic Sauce|$16.95
+C |Beef with Garlic Sauce|$17.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$6.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$6.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$15.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$16.95
+C |Fresh Mushroom with Snow Peapods and Baby Corns|$17.95
+C |Sesame Chicken|$6.95
+C |Sesame Chicken|$6.95
+C |Sesame Chicken|$8.95
+C |Sesame Chicken|$8.95
+C |Sesame Chicken|$8.95
+C |Sesame Chicken|$15.95
+C |Sesame Chicken|$16.95
+C |Sesame Chicken|$17.95
+C |Special Minced Chicken|$6.95
+C |Special Minced Chicken|$6.95
+C |Special Minced Chicken|$8.95
+C |Special Minced Chicken|$8.95
+C |Special Minced Chicken|$8.95
+C |Special Minced Chicken|$15.95
+C |Special Minced Chicken|$16.95
+C |Special Minced Chicken|$17.95
+C |Hunan Special Half & Half|$6.95
+C |Hunan Special Half & Half|$6.95
+C |Hunan Special Half & Half|$8.95
+C |Hunan Special Half & Half|$8.95
+C |Hunan Special Half & Half|$8.95
+C |Hunan Special Half & Half|$15.95
+C |Hunan Special Half & Half|$16.95
+C |Hunan Special Half & Half|$17.95
+HS|Chicken with Broccoli|$6.95
+HS|Chicken with Broccoli|$6.95
+HS|Chicken with Broccoli|$8.95
+HS|Chicken with Broccoli|$8.95
+HS|Chicken with Broccoli|$8.95
+HS|Chicken with Broccoli|$15.95
+HS|Chicken with Broccoli|$16.95
+HS|Chicken with Broccoli|$17.95
+HS|Sweet and Sour Chicken|$6.95
+HS|Sweet and Sour Chicken|$6.95
+HS|Sweet and Sour Chicken|$8.95
+HS|Sweet and Sour Chicken|$8.95
+HS|Sweet and Sour Chicken|$8.95
+HS|Sweet and Sour Chicken|$15.95
+HS|Sweet and Sour Chicken|$16.95
+HS|Sweet and Sour Chicken|$17.95
+HS|Chicken Wings|$6.95
+HS|Chicken Wings|$6.95
+HS|Chicken Wings|$8.95
+HS|Chicken Wings|$8.95
+HS|Chicken Wings|$8.95
+HS|Chicken Wings|$15.95
+HS|Chicken Wings|$16.95
+HS|Chicken Wings|$17.95
+HS|Beef with Garlic Sauce|$6.95
+HS|Beef with Garlic Sauce|$6.95
+HS|Beef with Garlic Sauce|$8.95
+HS|Beef with Garlic Sauce|$8.95
+HS|Beef with Garlic Sauce|$8.95
+HS|Beef with Garlic Sauce|$15.95
+HS|Beef with Garlic Sauce|$16.95
+HS|Beef with Garlic Sauce|$17.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$6.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$6.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$15.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$16.95
+HS|Fresh Mushroom with Snow Peapods and Baby Corns|$17.95
+HS|Sesame Chicken|$6.95
+HS|Sesame Chicken|$6.95
+HS|Sesame Chicken|$8.95
+HS|Sesame Chicken|$8.95
+HS|Sesame Chicken|$8.95
+HS|Sesame Chicken|$15.95
+HS|Sesame Chicken|$16.95
+HS|Sesame Chicken|$17.95
+HS|Special Minced Chicken|$6.95
+HS|Special Minced Chicken|$6.95
+HS|Special Minced Chicken|$8.95
+HS|Special Minced Chicken|$8.95
+HS|Special Minced Chicken|$8.95
+HS|Special Minced Chicken|$15.95
+HS|Special Minced Chicken|$16.95
+HS|Special Minced Chicken|$17.95
+HS|Hunan Special Half & Half|$6.95
+HS|Hunan Special Half & Half|$6.95
+HS|Hunan Special Half & Half|$8.95
+HS|Hunan Special Half & Half|$8.95
+HS|Hunan Special Half & Half|$8.95
+HS|Hunan Special Half & Half|$15.95
+HS|Hunan Special Half & Half|$16.95
+HS|Hunan Special Half & Half|$17.95
+LS|Chicken with Broccoli|$6.95
+LS|Chicken with Broccoli|$6.95
+LS|Chicken with Broccoli|$8.95
+LS|Chicken with Broccoli|$8.95
+LS|Chicken with Broccoli|$8.95
+LS|Chicken with Broccoli|$15.95
+LS|Chicken with Broccoli|$16.95
+LS|Chicken with Broccoli|$17.95
+LS|Sweet and Sour Chicken|$6.95
+LS|Sweet and Sour Chicken|$6.95
+LS|Sweet and Sour Chicken|$8.95
+LS|Sweet and Sour Chicken|$8.95
+LS|Sweet and Sour Chicken|$8.95
+LS|Sweet and Sour Chicken|$15.95
+LS|Sweet and Sour Chicken|$16.95
+LS|Sweet and Sour Chicken|$17.95
+LS|Chicken Wings|$6.95
+LS|Chicken Wings|$6.95
+LS|Chicken Wings|$8.95
+LS|Chicken Wings|$8.95
+LS|Chicken Wings|$8.95
+LS|Chicken Wings|$15.95
+LS|Chicken Wings|$16.95
+LS|Chicken Wings|$17.95
+LS|Beef with Garlic Sauce|$6.95
+LS|Beef with Garlic Sauce|$6.95
+LS|Beef with Garlic Sauce|$8.95
+LS|Beef with Garlic Sauce|$8.95
+LS|Beef with Garlic Sauce|$8.95
+LS|Beef with Garlic Sauce|$15.95
+LS|Beef with Garlic Sauce|$16.95
+LS|Beef with Garlic Sauce|$17.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$6.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$6.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$8.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$15.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$16.95
+LS|Fresh Mushroom with Snow Peapods and Baby Corns|$17.95
+LS|Sesame Chicken|$6.95
+LS|Sesame Chicken|$6.95
+LS|Sesame Chicken|$8.95
+LS|Sesame Chicken|$8.95
+LS|Sesame Chicken|$8.95
+LS|Sesame Chicken|$15.95
+LS|Sesame Chicken|$16.95
+LS|Sesame Chicken|$17.95
+LS|Special Minced Chicken|$6.95
+LS|Special Minced Chicken|$6.95
+LS|Special Minced Chicken|$8.95
+LS|Special Minced Chicken|$8.95
+LS|Special Minced Chicken|$8.95
+LS|Special Minced Chicken|$15.95
+LS|Special Minced Chicken|$16.95
+LS|Special Minced Chicken|$17.95
+LS|Hunan Special Half & Half|$6.95
+LS|Hunan Special Half & Half|$6.95
+LS|Hunan Special Half & Half|$8.95
+LS|Hunan Special Half & Half|$8.95
+LS|Hunan Special Half & Half|$8.95
+LS|Hunan Special Half & Half|$15.95
+LS|Hunan Special Half & Half|$16.95
+LS|Hunan Special Half & Half|$17.95
+(192 rows)
+spicy_dish_name|category|price
+Chicken Wings|C |$6.95
+Chicken Wings|C |$6.95
+Chicken Wings|C |$8.95
+Chicken Wings|C |$8.95
+Chicken Wings|C |$8.95
+Chicken Wings|C |$15.95
+Chicken Wings|C |$16.95
+Chicken Wings|C |$17.95
+Beef with Garlic Sauce|C |$6.95
+Beef with Garlic Sauce|C |$6.95
+Beef with Garlic Sauce|C |$8.95
+Beef with Garlic Sauce|C |$8.95
+Beef with Garlic Sauce|C |$8.95
+Beef with Garlic Sauce|C |$15.95
+Beef with Garlic Sauce|C |$16.95
+Beef with Garlic Sauce|C |$17.95
+Hunan Special Half & Half|C |$6.95
+Hunan Special Half & Half|C |$6.95
+Hunan Special Half & Half|C |$8.95
+Hunan Special Half & Half|C |$8.95
+Hunan Special Half & Half|C |$8.95
+Hunan Special Half & Half|C |$15.95
+Hunan Special Half & Half|C |$16.95
+Hunan Special Half & Half|C |$17.95
+Chicken Wings|LS|$6.95
+Chicken Wings|LS|$6.95
+Chicken Wings|LS|$8.95
+Chicken Wings|LS|$8.95
+Chicken Wings|LS|$8.95
+Chicken Wings|LS|$15.95
+Chicken Wings|LS|$16.95
+Chicken Wings|LS|$17.95
+Beef with Garlic Sauce|LS|$6.95
+Beef with Garlic Sauce|LS|$6.95
+Beef with Garlic Sauce|LS|$8.95
+Beef with Garlic Sauce|LS|$8.95
+Beef with Garlic Sauce|LS|$8.95
+Beef with Garlic Sauce|LS|$15.95
+Beef with Garlic Sauce|LS|$16.95
+Beef with Garlic Sauce|LS|$17.95
+Hunan Special Half & Half|LS|$6.95
+Hunan Special Half & Half|LS|$6.95
+Hunan Special Half & Half|LS|$8.95
+Hunan Special Half & Half|LS|$8.95
+Hunan Special Half & Half|LS|$8.95
+Hunan Special Half & Half|LS|$15.95
+Hunan Special Half & Half|LS|$16.95
+Hunan Special Half & Half|LS|$17.95
+Chicken Wings|HS|$6.95
+Chicken Wings|HS|$6.95
+Chicken Wings|HS|$8.95
+Chicken Wings|HS|$8.95
+Chicken Wings|HS|$8.95
+Chicken Wings|HS|$15.95
+Chicken Wings|HS|$16.95
+Chicken Wings|HS|$17.95
+Beef with Garlic Sauce|HS|$6.95
+Beef with Garlic Sauce|HS|$6.95
+Beef with Garlic Sauce|HS|$8.95
+Beef with Garlic Sauce|HS|$8.95
+Beef with Garlic Sauce|HS|$8.95
+Beef with Garlic Sauce|HS|$15.95
+Beef with Garlic Sauce|HS|$16.95
+Beef with Garlic Sauce|HS|$17.95
+Hunan Special Half & Half|HS|$6.95
+Hunan Special Half & Half|HS|$6.95
+Hunan Special Half & Half|HS|$8.95
+Hunan Special Half & Half|HS|$8.95
+Hunan Special Half & Half|HS|$8.95
+Hunan Special Half & Half|HS|$15.95
+Hunan Special Half & Half|HS|$16.95
+Hunan Special Half & Half|HS|$17.95
+(72 rows)
+dish_id|dish_count
+3|1
+5|1
+4|1
+6|1
+7|1
+1|2
+8|1
+(7 rows)
+dish_id|count
+1|2
+(1 row)
+name|count
+Chicken with Broccoli|2
+(1 row)
+best_rating|description
+5.0|Would love to host another birthday party at Bytes of China!
+(1 row)
