@@ -1,0 +1,72 @@
+SET
+customer_id|first_name|last_name|email_address|home_phone|city|state_name|years_old
+1|Edward|Lewis|Edward.Lewis@example.com|202-555-0264|Pittsburgh|Pennsylvania|82
+2|Frances|Campbell|Frances.Campbell@example.com|202-555-0073|North Las Vegas|Nevada|10
+3|Dennis|Hall|Dennis.Hall@example.com|202-555-0424|Chula Vista|California|21
+4|Arthur|Turner|Arthur.Turner@example.com|202-555-0205|Fort Wayne|Indiana|49
+5|Nathan|Cooper|Nathan.Cooper@example.com|202-555-0410|Durham|North Carolina|72
+6|Rachel|Scott|Rachel.Scott@example.com|202-555-0299|San Francisco|California|50
+7|Jeffrey|Cook|Jeffrey.Cook@example.com|202-555-0398|Jersey city|New Jersey|66
+8|Ann|Peterson|Ann.Peterson@example.com|202-555-0149|Laredo|Texas|66
+9|Sandra|Nelson|Sandra.Nelson@example.com|202-555-0932|Anchorage|Alaska|34
+10|Scott|Flores|Scott.Flores@example.com|202-555-0473|New Orleans|Louisiana|63
+(10 rows)
+order_id|customer_id|book_id|quantity|price_base|order_date|ship_date
+1|14995|93|8|4.50|2019-02-09|2019-02-23
+2|28760|50|16|13.42|2018-10-03|2018-10-06
+3|5096|61|12|18.52|2018-02-22|2018-03-01
+4|51619|60|8|16.85|2019-07-03|2019-07-04
+5|5815|22|20|17.10|2019-06-12|2019-06-16
+6|3947|76|20|21.85|2019-01-18|2019-01-24
+7|68425|14|11|16.85|2019-02-02|2019-02-11
+8|48126|7|8|15.73|2018-11-04|2018-11-13
+9|79505|11|15|19.75|2019-02-06|2019-02-20
+10|65278|158|19|38.50|2019-12-07|2019-12-16
+(10 rows)
+book_id|title|author|original_language|first_published|sales_in_millions|price
+1|The Little Prince (Le Petit Prince)|Antoine de Saint-Exupery|French|1943|150.00|11.95
+2|The Hobbit|J. R. R. Tolkien|English|1937|150.00|10.91
+3|Harry Potter and the Philosopher's Stone|J. K Rowling|English|1997|120.00|13.64
+4|And Then There Were None|Agatha Christie|English|1939|100.00|15.39
+5|Dream of the Red Chamber|Cao Xueqin|Chinese|1791|100.00|12.91
+6|The Lion, the Witch and the Wardrobe|C. S. Lewis|English|1950|85.00|16.94
+7|She: A History of Adventure|H. Rider Haggard|English|1887|83.00|15.73
+8|The Adventures of Pinocchio (Le avventure di Pinocchio)|Carlo Collodi|Italian|1881|80.00|15.51
+9|The Da Vinci Code|Dan Brown|English|2003|80.00|16.04
+10|Harry Potter and the Chamber of Secrets|J. K. Rowling|English|1998|77.00|15.95
+(10 rows)
+schemaname|tablename|indexname|tablespace|indexdef
+cc_user|customers|customers_pkey||CREATE UNIQUE INDEX customers_pkey ON cc_user.customers USING btree (customer_id)
+(1 row)
+schemaname|tablename|indexname|tablespace|indexdef
+cc_user|books|books_pkey||CREATE UNIQUE INDEX books_pkey ON cc_user.books USING btree (book_id)
+(1 row)
+schemaname|tablename|indexname|tablespace|indexdef
+cc_user|orders|orders_pkey||CREATE UNIQUE INDEX orders_pkey ON cc_user.orders USING btree (order_id)
+(1 row)
+CREATE INDEX
+QUERY PLAN
+Seq Scan on books  (cost=0.00..14.12 rows=2 width=125) (actual time=0.007..0.024 rows=5 loops=1)
+  Filter: ((original_language)::text = 'French'::text)
+  Rows Removed by Filter: 160
+Planning time: 0.051 ms
+Execution time: 0.035 ms
+(5 rows)
+pg_size_pretty
+56 kB
+(1 row)
+CREATE INDEX
+QUERY PLAN
+Seq Scan on books  (cost=0.00..3.65 rows=165 width=125) (actual time=0.005..0.024 rows=165 loops=1)
+Planning time: 0.082 ms
+Execution time: 0.036 ms
+(3 rows)
+DROP INDEX
+DROP INDEX
+now
+2023-03-09 16:13:34.368531+00
+(1 row)
+COPY 100000
+now
+2023-03-09 16:13:34.673402+00
+(1 row)
