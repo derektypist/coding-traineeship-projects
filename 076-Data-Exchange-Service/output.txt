@@ -1,0 +1,56 @@
+SET
+rolname
+ccuser
+(1 row)
+rolname|rolsuper|rolinherit|rolcreaterole|rolcreatedb|rolcanlogin|rolreplication|rolconnlimit|rolpassword|rolvaliduntil|rolbypassrls|rolconfig|oid
+pg_signal_backend|f|t|f|f|f|f|-1|********||f||4200
+ccuser|t|t|t|t|t|t|-1|********||t||10
+pg_read_all_stats|f|t|f|f|f|f|-1|********||f||3375
+pg_monitor|f|t|f|f|f|f|-1|********||f||3373
+pg_read_all_settings|f|t|f|f|f|f|-1|********||f||3374
+pg_stat_scan_tables|f|t|f|f|f|f|-1|********||f||3377
+(6 rows)
+current_role
+ccuser
+(1 row)
+CREATE ROLE
+CREATE ROLE
+GRANT
+GRANT
+grantor|grantee|table_catalog|table_schema|table_name|privilege_type|is_grantable|with_hierarchy
+ccuser|publishers|ccuser|analytics|downloads|SELECT|NO|YES
+(1 row)
+SET
+dataset_id|owner|download_timestamp
+54574bc2-8815-4015-b55f-a159bb48ea6b|dataio|2020-02-24 08:39:00
+1e93a40e-9b25-4fe7-a47d-caea273c119d|abc_open_data|2020-02-12 01:59:00
+2566b4bb-0298-4a39-ba0b-d90e279e953b|codecademy|2020-02-28 19:07:00
+a8a6540f-7224-46af-8954-36f26d50da32|dataio|2020-02-07 20:00:00
+de2ac3a6-adc1-4ba5-8ee6-a7e72a024dda|codecademy|2020-02-07 14:01:00
+2473a450-322c-43dc-8532-d647da5c5f2b|xyz_industries|2020-02-24 08:36:00
+5f6baa32-723a-4823-ae05-7d3ff2b0db30|xyz_industries|2020-03-02 16:03:00
+2566b4bb-0298-4a39-ba0b-d90e279e953b|codecademy|2020-02-12 13:11:00
+2b8b616e-a684-4ba4-8ea4-119206794f2a|abc_open_data|2020-02-20 14:59:00
+9fc59433-d3f1-4878-89bc-21126da67a69|codecademy|2020-02-14 11:26:00
+(10 rows)
+SET
+id|create_date|hosting_path|publisher|src_size|data_checksum
+6d9e44cf-46da-423a-a43a-48d969b321c5|2020-01-03|s3://this-bucket-dne/dataio/6d9e44cf-46da-423a-a43a-48d969b321c5.csv|dataio|321 MB|3403326f1ebf488188da6a8f24e6f897
+b0f5bdb9-2653-44c3-8d6c-997e8758eedc|2020-01-30|s3://this-bucket-dne/dataio/b0f5bdb9-2653-44c3-8d6c-997e8758eedc.csv|dataio|49 MB|9609103b9e484081a70acdd308baf1eb
+c2b315f3-7406-42f4-951e-a4fc58b2e927|2020-01-02|s3://this-bucket-dne/dataio/c2b315f3-7406-42f4-951e-a4fc58b2e927.csv|dataio|480 MB|d3c82e7d3c92468b9d578b4f29d84041
+aba83a3c-2ee4-4ce7-bd44-d4fbf93180aa|2020-01-20|s3://this-bucket-dne/xyz_industries/aba83a3c-2ee4-4ce7-bd44-d4fbf93180aa.csv|xyz_industries|140 MB|4829d029a469476da2a3b19df7b29046
+6f370673-1de7-4623-a2b9-a3d944a745e3|2020-01-02|s3://this-bucket-dne/abc_open_data/6f370673-1de7-4623-a2b9-a3d944a745e3.csv|abc_open_data|152 MB|801ff254230843fb89dab5494640d311
+(5 rows)
+GRANT
+SET
+SET
+CREATE POLICY
+ALTER TABLE
+dataset_id|owner|download_timestamp
+54574bc2-8815-4015-b55f-a159bb48ea6b|dataio|2020-02-24 08:39:00
+1e93a40e-9b25-4fe7-a47d-caea273c119d|abc_open_data|2020-02-12 01:59:00
+2566b4bb-0298-4a39-ba0b-d90e279e953b|codecademy|2020-02-28 19:07:00
+(3 rows)
+SET
+dataset_id|owner|download_timestamp
+(0 rows)
