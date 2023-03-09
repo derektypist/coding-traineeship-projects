@@ -1,0 +1,166 @@
+book_id,Book,Author(s),Original language,First published,Approximate sales (in millions),Price
+1,The Little Prince (Le Petit Prince),Antoine de Saint-Exupery,French,1943,150,11.95
+2,The Hobbit,J. R. R. Tolkien,English,1937,150,10.91
+3,Harry Potter and the Philosopher's Stone,J. K Rowling,English,1997,120,13.64
+4,And Then There Were None,Agatha Christie,English,1939,100,15.39
+5,Dream of the Red Chamber,Cao Xueqin,Chinese,1791,100,12.91
+6,"The Lion, the Witch and the Wardrobe",C. S. Lewis,English,1950,85,16.94
+7,She: A History of Adventure,H. Rider Haggard,English,1887,83,15.73
+8,The Adventures of Pinocchio (Le avventure di Pinocchio),Carlo Collodi,Italian,1881,80,15.51
+9,The Da Vinci Code,Dan Brown,English,2003,80,16.04
+10,Harry Potter and the Chamber of Secrets,J. K. Rowling,English,1998,77,15.95
+11,Harry Potter and the Prisoner of Azkaban,J. K. Rowling,English,1999,65,19.75
+12,Harry Potter and the Goblet of Fire,J. K. Rowling,English,2000,65,18.77
+13,Harry Potter and the Order of the Phoenix,J. K. Rowling,English,2003,65,17.82
+14,Harry Potter and the Half-Blood Prince,J. K. Rowling,English,2005,65,16.85
+15,Harry Potter and the Deathly Hallows,J. K. Rowling,English,2007,65,15.88
+16,The Alchemist (O Alquimista),Paulo Coelho,Portuguese,1988,65,14.58
+17,The Catcher in the Rye,J. D. Salinger,English,1951,65,13.02
+18,The Bridges of Madison County,Robert James Waller,English,1992,60,15.2
+19,Ben-Hur: A Tale of the Christ,Lew Wallace,English,1880,50,18.6
+20,You Can Heal Your Life,Louise Hay,English,1984,50,19.68
+21,One Hundred Years of Solitude (Cien anos de soledad),Gabriel Garcia Marquez,Spanish,1967,50,18.34
+22,Lolita,Vladimir Nabokov,English,1955,50,17.1
+23,Heidi,Johanna Spyri,Swiss German,1880,50,14.6
+24,The Common Sense Book of Baby and Child Care,Dr. Benjamin Spock,English,1946,50,14.92
+25,Anne of Green Gables,Lucy Maud Montgomery,English,1908,50,13.16
+26,Black Beauty,Anna Sewell,English,1877,50,11.54
+27,The Name of the Rose (Il Nome della Rosa),Umberto Eco,Italian,1980,50,12.6
+28,The Eagle Has Landed,Jack Higgins,English,1975,50,11.5
+29,Watership Down,Richard Adams,English,1972,50,10.44
+30,The Hite Report,Shere Hite,English,1976,50,9.52
+31,Charlotte's Web,E. B. White; illustrated by Garth Williams,English,1952,50,8.04
+32,The Ginger Man,J. P. Donleavy,English,1955,50,7.1
+33,The Tale of Peter Rabbit,Beatrix Potter,English,1902,45,9.27
+34,Jonathan Livingston Seagull,Richard Bach,English,1970,44,10.77
+35,The Very Hungry Caterpillar,Eric Carle,English,1969,43,10.79
+36,A Message to Garcia,Elbert Hubbard,English,1899,40,11.48
+37,To Kill a Mockingbird,Harper Lee,English,1960,40,12
+38,Flowers in the Attic,V. C. Andrews,English,1979,40,11.48
+39,Cosmos,Carl Sagan,English,1980,40,10.5
+40,Sophie's World (Sofies verden),Jostein Gaarder,Norwegian,1991,40,9.78
+41,Angels & Demons,Dan Brown,English,2000,39,10.28
+42,Kane and Abel,Jeffrey Archer,English,1979,37,11.49
+43,How the Steel Was Tempered,Nikolai Ostrovsky,Russian,1932,36.4,10.08
+44,War and Peace,Leo Tolstoy,Russian,1869,36,7.92
+45,The Diary of Anne Frank (Het Achterhuis),Anne Frank,Dutch,1947,35,10.63
+46,Your Erroneous Zones,Wayne Dyer,English,1976,35,10.46
+47,The Thorn Birds,Colleen McCullough,English,1977,33,12.91
+48,The Purpose Driven Life,Rick Warren,English,2002,33,12.67
+49,The Kite Runner,Khaled Hosseini,English,2003,31.5,14.59
+50,Valley of the Dolls,Jacqueline Susann,English,1966,31,13.42
+51,The Great Gatsby,F. Scott Fitzgerald,English,1925,30,13.17
+52,Gone with the Wind,Margaret Mitchell,English,1936,30,12.53
+53,Rebecca,Daphne du Maurier,English,1938,30,11.6
+54,Nineteen Eighty-Four,George Orwell,English,1949,30,10.97
+55,The Revolt of Mamie Stover,William Bradford Huie,English,1951,30,10.03
+56,The Girl with the Dragon Tattoo (Man som hatar kvinnor),Stieg Larsson,Swedish,2005,30,10.83
+57,The Lost Symbol,Dan Brown,English,2009,30,9.97
+58,The Hunger Games,Suzanne Collins,English,2008,29,11.24
+59,The Young Guard,Alexander Alexandrovich Fadeyev,Russian,1945,26,15.81
+60,Who Moved My Cheese?,Spencer Johnson,English,1998,26,16.85
+61,A Brief History of Time,Stephen Hawking,English,1988,25,18.52
+62,Paul et Virginie,Jacques-Henri Bernardin de Saint-Pierre,French,1788,25,9.52
+63,Lust for Life,Irving Stone,English,1934,25,14.36
+64,The Wind in the Willows,Kenneth Grahame,English,1908,25,12.32
+65,The 7 Habits of Highly Effective People,Stephen R. Covey,English,1989,25,14.56
+66,Virgin Soil Upturned,Mikhail Sholokhov,Russian,1935,24,14.63
+67,The Celestine Prophecy,James Redfield,English,1993,23,19.65
+68,The Fault in Our Stars,John Green,English,2012,23,19.48
+69,The Shack,William P. Young,English,2007,22,22.23
+70,Uncle Styopa,Sergey Mikhalkov,Russian,1936,21,22.19
+71,The Godfather,Mario Puzo,English,1969,21,22.76
+72,Love Story,Erich Segal,English,1970,21,21.81
+73,Catching Fire,Suzanne Collins,English,2009,21,22.67
+74,Mockingjay,Suzanne Collins,English,2010,20,26.5
+75,Kitchen,Banana Yoshimoto,Japanese,1988,20,24.4
+76,Andromeda Nebula,Ivan Yefremov,Russian,1957,20,21.85
+77,Autobiography of a Yogi,Paramahansa Yogananda,Hindi,1946,20,20.3
+78,Gone Girl,Gillian Flynn,English,2012,20,22.6
+79,The Girl on the Train,Paula Hawkins,English,2015,20,21.75
+80,All Quiet on the Western Front (Im Westen nichts Neues),Erich Maria Remarque,German,1929,20,16.45
+81,The Bermuda Triangle,Charles Berlitz,English,1974,20,17.7
+82,Things Fall Apart,Chinua Achebe,English,1958,20,15.9
+83,Animal Farm,George Orwell,English,1945,20,14.25
+84,Wolf Totem,Jiang Rong,Chinese,2004,20,16.2
+85,The Happy Hooker: My Own Story,Xaviera Hollander,English,1971,20,13.55
+86,Jaws,Peter Benchley,English,1974,20,12.7
+87,Love You Forever,Robert Munsch,English,1986,20,12.3
+88,The Women's Room,Marilyn French,English,1977,20,10.85
+89,What to Expect When You're Expecting,Arlene Eisenberg and Heidi Murkoff,English,1984,20,10.2
+90,Adventures of Huckleberry Finn,Mark Twain,English,1885,20,4.25
+91,"The Secret Diary of Adrian Mole, Aged 13 3 / 4",Sue Townsend,English,1982,20,8.1
+92,Pride and Prejudice,Jane Austen,English,1813,20,1.35
+93,Kon-Tiki: Across the Pacific in a Raft (Kon-Tiki ekspedisjonen),Thor Heyerdahl,Norwegian,1950,20,4.5
+94,The Good Soldier svejk,Jaroslav Hasek,Czech,1923,20,2.15
+95,Where the Wild Things Are,Maurice Sendak,English,1963,20,3.15
+96,The Power of Positive Thinking,Norman Vincent Peale,English,1952,20,1.6
+97,The Secret,Rhonda Byrne,English,2006,20,3.3
+98,Fear of Flying,Erica Jong,English,1973,20,0.65
+99,Dune,Frank Herbert,English,1965,20,0.75
+100,Charlie and the Chocolate Factory,Roald Dahl,English,1964,20,1.8
+101,The Naked Ape,Desmond Morris,English,1968,20,2.6
+102,"Totto-chan, the Little Girl at the Window",Tetsuko Kuroyanagi,Japanese,1981,18,8.06
+103,Matilda,Roald Dahl,English,1988,17,13.94
+104,The Book Thief,Markus Zusak,English,2005,16,21.31
+105,The Horse Whisperer,Nicholas Evans,English,1995,16,19.69
+106,Goodnight Moon,Margaret Wise Brown,English,1947,16,15.69
+107,The Neverending Story (Die unendliche Geschichte),Michael Ende,German,1979,16,16.69
+108,Fifty Shades of Grey,E. L. James,English,2011,15.2,24.3
+109,The Outsiders,S. E. Hinton,English,1967,15,22.13
+110,Guess How Much I Love You,Sam McBratney,English,1994,15,22.93
+111,Sh?gun,James Clavell,English,1975,15,20.67
+112,The Poky Little Puppy,Janette Sebring Lowrey,English,1942,15,17.47
+113,The Pillars of the Earth,Ken Follett,English,1989,15,19.6
+114,How to Win Friends and Influence People,Dale Carnegie,English,1936,15,15.07
+115,Perfume (Das Parfum),Patrick Suskind,German,1985,15,17.33
+116,The Grapes of Wrath,John Steinbeck,English,1939,15,13.27
+117,The Shadow of the Wind (La sombra del viento),Carlos Ruiz Zafon,Spanish,2001,15,16.4
+118,Interpreter of Maladies,Jhumpa Lahiri,English,2000,15,15.33
+119,The Hitchhiker's Guide to the Galaxy,Douglas Adams,English,1979,14,22.36
+120,Tuesdays with Morrie,Mitch Albom,English,1997,14,22.64
+121,God's Little Acre,Erskine Caldwell,English,1933,14,17.07
+122,Follow Your Heart (Va' dove ti porta il cuore),Susanna Tamaro,Italian,1994,14,20.43
+123,A Wrinkle in Time,Madeleine L'Engle,English,1962,14,17.14
+124,Long Walk to Freedom,Nelson Mandela,English,1994,14,18.43
+125,The Old Man and the Sea,Ernest Hemingway,English,1952,13,25.15
+126,Life After Life,Raymond Moody,English,1975,13,25.92
+127,Mein Kampf,Adolf Hitler,German,1925,12.5,27
+128,Me Before You,Jojo Moyes,English,2012,12,39.67
+129,Norwegian Wood,Haruki Murakami,Japanese,1987,12,36.58
+130,Peyton Place,Grace Metalious,English,1956,12.1,31.65
+131,The Plague (La Peste),Albert Camus,French,1947,12,31.25
+132,No Longer Human,Osamu Dazai,Japanese,1948,12,30.33
+133,Man's Search for Meaning (Ein Psychologe erlebt das Konzentrationslager),Viktor Frankl,German,1946,12,29.17
+134,The Divine Comedy (La Divina Commedia),Dante Alighieri,Italian,1304,11.5,20.61
+135,Becoming,Michelle Obama,English,2018,11.5,40.48
+136,The Prophet,Kahlil Gibran,English,1923,11,38.82
+137,The Exorcist,William Peter Blatty,English,1971,11,42.18
+138,The Gruffalo,Julia Donaldson,English,1999,10.5,52.38
+139,Fifty Shades Darker,E. L. James,English,2012,10.4,54.46
+140,"Ronia, the Robber's Daughter",Astrid Lindgren,Swedish,1981,10,58.1
+141,The Cat in the Hat,Dr. Seuss,English,1957,10.5,45.38
+142,Diana: Her True Story,Andrew Morton,English,1992,10,57.2
+143,The Help,Kathryn Stockett,English,2009,10,57.9
+144,Catch-22,Joseph Heller,English,1961,10,52.1
+145,The Stranger (L'etranger),Albert Camus,French,1942,10,49.2
+146,Eye of the Needle,Ken Follett,English,1978,10,51.8
+147,The Lovely Bones,Alice Sebold,English,2002,10,53.2
+148,Wild Swans,Jung Chang,English,1992,10,51.2
+149,Santa Evita,Tomas Eloy Martinez,Spanish,1995,10,50.5
+150,Night (Un di Velt Hot Geshvign),Elie Wiesel,Yiddish,1958,10,45.8
+151,Confucius from the Heart,Yu Dan,Chinese,2006,10,49.6
+152,The Total Woman,Marabel Morgan,English,1974,10,45.4
+153,Knowledge-value Revolution,Taichi Sakaiya,Japanese,1985,10,45.5
+154,Problems in China's Socialist Economy,Xue Muqiao,Chinese,1979,10,43.9
+155,What Color Is Your Parachute?,Richard Nelson Bolles,English,1970,10,42
+156,The Dukan Diet,Pierre Dukan,French,2000,10,44
+157,The Joy of Sex,Alex Comfort,English,1972,10,40.2
+158,The Gospel According to Peanuts,Robert L. Short,English,1965,10,38.5
+159,Life of Pi,Yann Martel,English,2001,10,41.1
+160,The Giver,Lois Lowry,English,1993,10,39.3
+161,The Front Runner,Patricia Nell Warren,English,1974,10,36.4
+162,The Goal,Eliyahu M. Goldratt,English,1984,10,36.4
+163,Fahrenheit 451,Ray Bradbury,English,1953,10,32.3
+164,Angela's Ashes,Frank McCourt,English,1996,10,35.6
+165,The Story of My Experiments with Truth,Mohandas Karamchand Gandhi,Gujarati,1925,10,12.5
