@@ -1,0 +1,40 @@
+SET
+pg_size_pretty
+1192 kB
+(1 row)
+id|datetime|location_id|duration|distance|category
+f0ccd2d6-1c54-4e98-96ad-7dc999e4ffcc|2020-02-01 00:01:00|31|25.5998670615854|12.5407236773445|'Pedestrian - Multiple'
+3f7690b6-e2c7-4919-95f0-3206e251e243|2020-02-01 00:02:00|22|9.97507613498676|7.47215931813983|'Cyclist'
+ceaebcb0-3a0f-4ff2-8884-e28d45b01f55|2020-02-01 00:04:00|21|5.41265074957213|1.83853948365806|'Pedestrian'
+af6ea7cb-84a0-41f6-8bf9-bcc76ef8ab42|2020-02-01 00:11:00|19|13.2319673539406|10.6892816498825|'Vehicle'
+2cb4f2f9-3d82-4f64-88f5-a0ea76039047|2020-02-01 00:14:00|22|11.2295845879265|5.6041090755597|'Pedestrian - Multiple'
+(5 rows)
+idx_1_size|idx_2_size
+712 kB|448 kB
+(1 row)
+tbl_size|idx_size|total_size
+1192 kB|0 bytes|2352 kB
+(1 row)
+UPDATE 10000
+tbl_size|idx_size|total_size
+2344 kB|0 bytes|4576 kB
+(1 row)
+VACUUM
+COPY 1000
+total_size
+2352 kB
+(1 row)
+VACUUM
+total_size
+1272 kB
+(1 row)
+DELETE 2418
+total_size
+1272 kB
+(1 row)
+TRUNCATE TABLE
+COPY 10000
+COPY 1000
+tbl_size|idx_size|total_size
+1296 kB|0 bytes|2592 kB
+(1 row)
