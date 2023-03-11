@@ -1,0 +1,122 @@
+[
+    {
+      "id": "INSTRC-1",
+      "first": "Bert",
+      "last": "Hodge",
+      "age": 51,
+      "gender": "male",
+      "phone": "1-254-995-5060",
+      "address": "P.O. Box 906, 8275 Imperdiet Rd.",
+      "zip_code": "57634",
+      "subject": "math",
+      "num_students": 36
+    },
+    {
+      "id": "INSTRC-5",
+      "first": "Ciara",
+      "last": "Haley",
+      "age": 67,
+      "gender": "female",
+      "phone": "1-778-190-1320",
+      "address": "4387 Praesent Av.",
+      "zip_code": "08317",
+      "subject": "english",
+      "num_students": 29
+    },
+    {
+      "id": "INSTRC-8",
+      "first": "Quentin",
+      "last": "Baird",
+      "age": 55,
+      "gender": "male",
+      "phone": "1-614-404-3079",
+      "address": "6880 Pede. Av.",
+      "zip_code": "37538",
+      "subject": "math",
+      "num_students": 25
+    },
+    {
+      "id": "INSTRC-10",
+      "first": "Chiquita",
+      "last": "Alston",
+      "age": 48,
+      "gender": "female",
+      "phone": "1-522-459-2650",
+      "address": "984-6422 Euismod Rd.",
+      "zip_code": "59917",
+      "subject": "science",
+      "num_students": 36
+    },
+    {
+      "id": "INSTRC-11",
+      "first": "Lawrence",
+      "last": "Haney",
+      "age": 56,
+      "gender": "male",
+      "phone": "1-991-289-0577",
+      "address": "Ap #445-9842 Quis Street",
+      "zip_code": "13258",
+      "subject": "social studies",
+      "num_students": 38
+    },
+    {
+      "id": "INSTRC-12",
+      "first": "Dennis",
+      "last": "Nunez",
+      "age": 26,
+      "gender": "male",
+      "phone": "1-916-322-7351",
+      "address": "195-6149 Torquent St.",
+      "zip_code": "95949",
+      "subject": "health",
+      "num_students": 26
+    },
+    {
+      "id": "INSTRC-13",
+      "first": "Hadassah",
+      "last": "Rose",
+      "age": 58,
+      "gender": "female",
+      "phone": "1-552-578-0347",
+      "address": "Ap #683-6809 Lorem, Road",
+      "zip_code": "86326",
+      "subject": "chemistry",
+      "num_students": 18
+    },
+    {
+      "id": "INSTRC-14",
+      "first": "Owen",
+      "last": "Delaney",
+      "age": 27,
+      "gender": "male",
+      "phone": "1-499-344-9022",
+      "address": "Ap #888-4370 Penatibus Rd.",
+      "zip_code": "77538",
+      "subject": "pe",
+      "num_students": 11
+    },
+    {
+      "id": "INSTRC-38",
+      "first": "Stephanie",
+      "last": "Torres",
+      "age": 32,
+      "gender": "female",
+      "phone": "1-239-891-2664",
+      "address": "350-1814 Fringilla Avenue",
+      "zip_code": "92177",
+      "subject": "science",
+      "num_students": 28
+    },
+    {
+      "id": "INSTRC-48",
+      "first": "Ignatius",
+      "last": "Robinson",
+      "age": 51,
+      "gender": "female",
+      "phone": "1-448-833-8112",
+      "address": "P.O. Box 379, 2707 Pede Rd.",
+      "zip_code": "40244",
+      "subject": "chemistry",
+      "num_students": 25
+    }
+  ]
