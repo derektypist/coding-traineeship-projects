@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <title>Linux Emulator</title>
+</head>
+
+<body>
+    <center>
+        <h1>Linux Emulator</h1>
+    </center>
+    <form>
+        <div class="container">
+            <label for="commandChooser">Command</label>
+            <input id="commandChooser" name="commandChooser"
+                placeholder="Type or choose a Linux command to execute" onfocus="this.value=''" onchange="this.blur();"
+                list="expressions">
+            <datalist id="expressions">
+                <option value="ls">
+                <option value="date">
+                <option value="find">
+            </datalist>
+            <button type="submit">Run Command</button>
+        </div>
+    </form>
+
+    <div class="centerContainer" style="margin-top: 25px;">
+        <h3 style="text-align: center;">Result</h3>
+        <div class="container" id="result">
+            &gt;
+        </div>
+    </div>
+
+    <div class="centerContainer" style="margin-top: 25px; border: 0px;">
+        <button onclick="location.href='/'" type="button">&#8592; Back</button>
+    </div>
+</body>
+
+</html>
