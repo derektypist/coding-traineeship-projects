@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <title>Regex Evaluator</title>
+</head>
+
+<body>
+    <center>
+        <h1>Regular Expression Evaluator</h1>
+    </center>
+    <form>
+        <div class="container">
+            <label for="regex">Regular Expression</label>
+            <input id="regex" name="regex" placeholder="Type a regex to check whether it's safe to use" list="patterns">
+            <datalist id="patterns">
+                <option value="^[a-z ,.'-]+$">
+                <option value="^([a-zA-Z0-9._%-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})*$">
+                <option value="([12]\d{3}-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01]))">
+            </datalist>
+            <button type="submit">Evaluate Regex</button>
+        </div>
+    </form>
+
+    <div class="centerContainer" style="margin-top: 25px;">
+        <h3 style="text-align: center;">Result</h3>
+        <div class="container" id="result">
+            &gt;
+        </div>
+    </div>
+
+    <div class="centerContainer" style="margin-top: 25px; border: 0px;">
+        <button onclick="location.href='/'" type="button">&#8592; Back</button>
+    </div>
+</body>
+
+</html>
