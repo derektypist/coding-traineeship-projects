@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <title>Calculator</title>
+</head>
+
+<body>
+    <center>
+        <h1>Calculator</h1>
+    </center>
+    <form>
+        <div class="container">
+            <label for="expressionChooser">Expression</label>
+            <input id="expressionChooser" name="expressionChooser"
+                placeholder="Type or choose a mathematical expression" onfocus="this.value=''" onchange="this.blur();"
+                list="expressions">
+            <datalist id="expressions">
+                <option value="2 + 2">
+                <option value="5 ** 2">
+                <option value="(20 + 25) * (51 / 3) + 250">
+            </datalist>
+            <button type="submit">Evaluate</button>
+        </div>
+    </form>
+
+    <div class="centerContainer" style="margin-top: 25px;">
+        <h3 style="text-align: center;">Result</h3>
+        <div class="container" id="result">
+            &gt;
+        </div>
+    </div>
+
+    <div class="centerContainer" style="margin-top: 25px; border: 0px;">
+        <button onclick="location.href='/'" type="button">&#8592; Back</button>
+    </div>
+</body>
+
+</html>
