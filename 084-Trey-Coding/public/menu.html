@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <title>Main Menu</title>
+</head>
+
+<body>
+    <center>
+        <h1>Main Menu</h1>
+    </center>
+    <form>
+        <div class="container">
+            <label for="fileSelector">File</label>
+            <select id="fileSelector" name="fileSelector" onchange="if(this.options[this.selectedIndex].value=='custom'){
+                        toggleField(this, this.nextSibling);
+                        this.selectedIndex='0';
+                    }">
+                <option value="" disabled selected>Choose a file to load</option>
+                <option value="public/calculator.html">Calculator</option>
+                <option value="public/form.html">Contact Form</option>
+                <option value="public/linux.html">Linux Emulator</option>
+                <option value="public/regex.html">Regex Evaluator</option>
+                <option value="custom">Other</option>
+            </select><input name="fileSelector" style="display:none;" disabled="disabled" placeholder="Type file name"
+                onblur="if(this.value==''){toggleField(this, this.previousSibling);}">
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+
+    <script>
+        function toggleField(hideElement, showElement) {
+            hideElement.disabled = true;
+            hideElement.style.display = 'none';
+            showElement.disabled = false;
+            showElement.style.display = 'inline';
+            showElement.focus();
+        }
+    </script>
+</body>
+
+</html>
