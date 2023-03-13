@@ -1,0 +1,101 @@
+<h2>Find your address on file</h2>
+
+<form id="formElem">
+  <label for="tracking-number">Customer ID Number</label>
+  <input
+    type="text"
+    id="customerId"
+    name="customerId"
+    placeholder="Enter your Customer ID"
+    style="width: 100%"
+  />
+
+  <div>
+    <input type="submit" />
+  </div>
+</form>
+
+<div id="customer-data" style=""></div>
+
+<script>
+  formElem.onsubmit = async (e) => {
+    e.preventDefault();
+
+    const customerId= document.getElementById("customerId").value;
+
+    let response = await fetch("/track", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        customerId: customerId,
+        _csrf: "<%= csrfToken %>",
+      }),
+    });
+
+    let result = await response.json();
+
+    if (result) {
+      let employeeData = document.getElementById("customer-data");
+      employeeData.innerHTML = "";
+      if(typeof(result.message) === "string"){
+        employeeData.innerHTML = result.message;
+        return
+      }
+      if (result.length === 0) {
+        employeeData.innerHTML = "No customer found";
+        return;
+      }
+      result.map((res) => {
+        let employee = `<table style="margin-top:1.5rem">
+                        <tr>
+                            <td>Customer ID</td>
+                            <td>${res.EmployeeId}</td>
+                        </tr>
+                        <tr>
+                            <td>Customer Name</td>
+                            <td>${res.FirstName} ${res.LastName}</td>
+                        </tr>
+                        <tr>
+                            <td>Birth Date</td>
+                            <td>${res.BirthDate}</td>
+                        </tr>
+                        <tr>
+                            <td>Address</td>
+                            <td>${res.Address}</td>
+                        </tr>
+                        <tr>
+                            <td>City</td>
+                            <td>${res.City}</td>
+                        </tr>
+                        <tr>
+                            <td>State</td>
+                            <td>${res.State}</td>
+                        </tr>
+                        <tr>
+                            <td>Country</td>
+                            <td>${res.Country}</td>
+                        </tr>
+                        <tr>
+                            <td>Postal Code</td>
+                            <td>${res.PostalCode}</td>
+                        </tr>
+                        <tr>
+                            <td>Phone Number</td>
+                            <td>${res.Phone}</td>
+                        </tr>
+                        <tr>
+                            <td>Fax</td>
+                            <td>${res.Fax}</td>
+                        </tr>
+                        <tr>
+                            <td>Email</td>
+                            <td>${res.Email}</td>
+                        </tr>
+                        </table>`;
+        employeeData.innerHTML += `${employee}`;
+      });
+    }
+  };
+</script>
