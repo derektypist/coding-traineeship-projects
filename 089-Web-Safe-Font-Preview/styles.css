@@ -33,7 +33,7 @@ body {
   }
   
   .preview {
-    align: center;
+    align-items: center;
     background: white;
     font-family: Helvetica;
     font-size: 12px;
