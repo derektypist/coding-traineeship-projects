@@ -1,4 +1,4 @@
-weight = 8.4
+weight = 80
 
 # Ground Shipping
 if weight <=2:
@@ -10,4 +10,9 @@ elif weight <=10:
 else:
     cost_ground = (weight * 4.75) + 20
 
-print("Ground Shipping: {0}".format(cost_ground))
+print("Ground Shipping: ${0:.2f}".format(cost_ground))
+
+# Ground Shipping Premium
+cost_ground_premium = 125.00
+
+print("Ground Shipping Premium: ${0:.2f}".format(cost_ground_premium))
