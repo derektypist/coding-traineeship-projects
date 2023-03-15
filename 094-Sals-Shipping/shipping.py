@@ -37,7 +37,7 @@ print("Drone Shipping: ${0:.2f}".format(droneshipping(1.5)))
 # Apply Two Examples - Printing and Formatting Costs to 2 Decimal Places
 test1 = 4.8
 test2 = 41.5
-print("`nData with {0} pounds".format(test1))
+print("\nData with {0} pounds".format(test1))
 print("Ground Shipping $ {0:.2f}".format(groundshipping(test1)))
 print("Ground Shipping Premium $ {0:.2f}".format(cost_ground_premium))
 print("Drone Shipping $ {0:.2f}".format(droneshipping(test1)))
