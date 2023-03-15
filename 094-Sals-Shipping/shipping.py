@@ -1,4 +1,4 @@
-weight = 80
+weight = 8.4
 
 # Ground Shipping
 if weight <=2:
