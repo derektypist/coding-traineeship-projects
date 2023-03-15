@@ -9,3 +9,5 @@ elif weight <=10:
     cost_ground = (weight * 4) + 20
 else:
     cost_ground = (weight * 4.75) + 20
+
+print("Ground Shipping: {0}".format(cost_ground))
