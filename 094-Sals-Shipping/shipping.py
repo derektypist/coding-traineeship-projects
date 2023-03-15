@@ -10,7 +10,7 @@ def groundshipping(weight):
         cost_ground = (weight * 4.75) + 20
     return cost_ground
 
-# Calculate Ground Shipping with Weight of 8.4 pounds
+# Calculate and Print Ground Shipping with Weight of 8.4 pounds
 print("Ground Shipping: ${0:.2f}".format(groundshipping(8.4)))
 
 # Ground Shipping Premium
@@ -31,13 +31,13 @@ def droneshipping(weight):
         cost_drone = (14.25 * weight)
     return cost_drone
 
-# Calculate Drone Shipping with Weight of 1.5 pounds
+# Calculate and Print Drone Shipping with Weight of 1.5 pounds
 print("Drone Shipping: ${0:.2f}".format(droneshipping(1.5)))
 
-# Apply Two Examples
+# Apply Two Examples - Printing and Formatting Costs to 2 Decimal Places
 test1 = 4.8
 test2 = 41.5
-print("Data with {0} pounds".format(test1))
+print("`nData with {0} pounds".format(test1))
 print("Ground Shipping $ {0:.2f}".format(groundshipping(test1)))
 print("Ground Shipping Premium $ {0:.2f}".format(cost_ground_premium))
 print("Drone Shipping $ {0:.2f}".format(droneshipping(test1)))
