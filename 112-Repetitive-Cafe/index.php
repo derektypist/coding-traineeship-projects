@@ -19,7 +19,7 @@ $pastries = [
 <h3>Drinks!</h3>
 <ul>
 <?php foreach($drinks as $drink=>$price):?>
-<li><?="$drink: £{round($price,2)}"?></li>
+<li><?="$drink: £round({$price},2)"?></li>
 <?php endforeach;?>
 </ul>
 <h3>Pastries! (£2 each)</h3>
