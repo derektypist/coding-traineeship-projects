@@ -20,7 +20,7 @@ const Header = () => {
 
             <div id="theme-switch">
                 <ThemeSwitch />
-                <a href="https://github.com/derektypist/coding-traineeship-projects-062-Reddit-Client" className="github-link">
+                <a href="https://github.com/derektypist/coding-traineeship-projects/tree/main/062-Reddit-Client" className="github-link">
                     <AiFillGithub />
                 </a>
             </div>
