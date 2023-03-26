@@ -12,7 +12,11 @@ The training is delivered via multimedia rich video tutorials, PowerPoint slides
 
 ## Step 2
 
+Studied Front-End Coding Languages, along with various Back-End Languages.  Completed a number of mini-projects where I practiced my coding skills.
+
+![Completion of Step 2](Completion-Certificates/completion_step_2.png)
 
 ### Acknowledgements
 
 - [Atanas Dimitrov](https://github.com/atanas-dim)
+- [Codecademy](https://www.codecademy.com)
