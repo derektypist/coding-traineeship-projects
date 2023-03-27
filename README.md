@@ -10,7 +10,7 @@ The training is delivered via multimedia rich video tutorials, PowerPoint slides
 - [Certificate in JavaScript](Completion-Certificates/javascript.pdf)
 - [Certificate in Python](Completion-Certificates/python.pdf)
 
-## Step 2
+## Step 2 - Full Stack Development 
 
 Studied Front-End Coding Languages, along with various Back-End Languages.  Completed a number of mini-projects where I practiced my coding skills.  On Codecademy.
 
@@ -33,7 +33,7 @@ Codecademy Assessement Test Based on Step 2
 
 ![Completion of Step 2](Completion-Certificates/completion-step-2.png)
 
-## Step 3
+## Step 3 - Two Real World Projects
 
 Requirements
 
