@@ -12,11 +12,39 @@ The training is delivered via multimedia rich video tutorials, PowerPoint slides
 
 ## Step 2
 
-Studied Front-End Coding Languages, along with various Back-End Languages.  Completed a number of mini-projects where I practiced my coding skills.
+Studied Front-End Coding Languages, along with various Back-End Languages.  Completed a number of mini-projects where I practiced my coding skills.  On Codecademy.
 
-![Completion of Step 2](Completion-Certificates/completion_step_2.png)
+Completion Certificates
+
+- [Certificate in Bootstrap](Completion-Certificates/bootstrap.pdf)
+- [Certificate in Command Line](Completion-Certificates/commandline.pdf)
+- [Certificate in CSS](Completion-Certificates/css.pdf)
+- [Certificate in Full Stack Engineer](Completion-Certificates/full-stack-engineer.pdf)
+- [Certificate in HTML](Completion-Certificates/html.pdf)
+- [Certificate in JavaScript](Completion-Certificates/javascript-2.pdf)
+- [Certificate in jQuery](Completion-Certificates/jQuery.pdf)
+- [Certificate in NodeJS](Completion-Certificates/nodejs.pdf)
+- [Certificate in PHP](Completion-Certificates/php.pdf)
+- [Certificate in Python 3](Completion-Certificates/python-3.pdf)
+- [Certificate in React](Completion-Certificates/react.pdf)
+- [Certificate in SQL](Completion-Certificates/sql.pdf)
+
+Codecademy Assessement Test Based on Step 2
+
+![Completion of Step 2](Completion-Certificates/completion-step-2.png)
+
+## Step 3
+
+Requirements
+
+- GitHub Account
+- Set Up Web Server
+- Latest Version of XAMPP
+- Create a Presence on the Internet
+
 
 ### Acknowledgements
 
 - [Atanas Dimitrov](https://github.com/atanas-dim)
 - [Codecademy](https://www.codecademy.com)
+- Nelson Dhlamini (Tutor at IT Career Switch)
