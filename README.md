@@ -1,6 +1,6 @@
 # Coding Traineeship Projects
 
-Coding Traineeship Program from [IT Career Switch](https://www.itcareerswitch.co.uk) in 4 steps.
+Coding Traineeship Program from [IT Career Switch](https://www.itcareerswitch.co.uk) in 4 steps.  It consists of Introduction to Development, Full Stack Development (Practical Projects), Real World Projects and Portfolio Website.
 
 ## Completion of Step 1 - Introduction to Development
 
@@ -12,7 +12,7 @@ The training is delivered via multimedia rich video tutorials, PowerPoint slides
 
 ## Step 2 - Full Stack Development 
 
-Studied Front-End Coding Languages, along with various Back-End Languages.  Completed a number of mini-projects where I practiced my coding skills.  On Codecademy.
+Studied Front-End Coding Languages, along with various Back-End Languages.  Completed a number of mini-projects where I practiced my coding skills as I study through the material.  On Codecademy.
 
 Completion Certificates
 
