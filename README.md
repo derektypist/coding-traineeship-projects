@@ -35,12 +35,14 @@ Codecademy Assessement Test Based on Step 2
 
 ## Step 3 - Two Real World Projects
 
-Requirements
+A GitHub Account has been in place.  A web server has been set up with the latest version of XAMPP.  A presence on the Internet has been set up.  It is at [Derek Dhammaloka Website](https://www.derekdhammaloka.co.uk), web hosting account IONOS.
 
-- GitHub Account
-- Set Up Web Server
-- Latest Version of XAMPP
-- Create a Presence on the Internet
+To Do
+
+- Complete the task as described in Moving from Theory to Practice.  Simple HTML Application with table of other APIs.
+
+
+
 
 
 ### Acknowledgements
