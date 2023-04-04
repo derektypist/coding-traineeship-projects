@@ -39,9 +39,10 @@ A GitHub Account has been in place.  A web server has been set up with the lates
 
 To Do
 
-- Complete the task as described in Moving from Theory to Practice.  Simple HTML Application with table of other APIs.
+- Complete the task as described in Moving from Theory to Practice.  Simple HTML Application with table of other APIs.  Set up a Geonames Account.
 
-
+- Complete project1
+- Complete project2
 
 
 
