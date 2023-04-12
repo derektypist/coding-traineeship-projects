@@ -37,17 +37,16 @@ Codecademy Assessement Test Based on Step 2
 
 A GitHub Account has been in place.  A web server has been set up with the latest version of XAMPP.  A presence on the Internet has been set up.  It is at [Derek Dhammaloka Website](https://www.derekdhammaloka.co.uk), web hosting account IONOS.
 
-To Do
+A pre-project task on [API Table](https://www.derekdhammaloka.co.uk/task) is available.
 
-- Complete the task as described in Moving from Theory to Practice.  Simple HTML Application with table of other APIs.  Set up a Geonames Account.
+To Do
 
 - Complete project1
 - Complete project2
-
-
 
 ### Acknowledgements
 
 - [Atanas Dimitrov](https://github.com/atanas-dim)
 - [Codecademy](https://www.codecademy.com)
 - Nelson Dhlamini (Tutor at IT Career Switch)
+- [Geonames](https://www.geonames.org)
