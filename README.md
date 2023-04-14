@@ -37,7 +37,7 @@ Codecademy Assessement Test Based on Step 2
 
 A GitHub Account has been in place.  A web server has been set up with the latest version of XAMPP.  A presence on the Internet has been set up.  It is at [Derek Dhammaloka Website](https://www.derekdhammaloka.co.uk), web hosting account IONOS.
 
-A pre-project task on [API Table](https://www.derekdhammaloka.co.uk/task) is available.
+- [API Table](https://www.derekdhammaloka.co.uk/task) is available.
 
 To Do
 
