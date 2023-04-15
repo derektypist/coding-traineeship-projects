@@ -35,9 +35,15 @@ Codecademy Assessement Test Based on Step 2
 
 ## Step 3 - Two Real World Projects
 
+As well as Two Real World Projects there is also a preparatory project.
+
 A GitHub Account has been in place.  A web server has been set up with the latest version of XAMPP.  A presence on the Internet has been set up.  It is at [Derek Dhammaloka Website](https://www.derekdhammaloka.co.uk), web hosting account IONOS.
 
-- [API Table](https://www.derekdhammaloka.co.uk/task) is available.
+Once I have completed task, project1 or project2, I email Nelson Dhlamini (nelson@itcareerswitch.co.uk) with the web address and the private GitHub Repository.  I can get feedback.
+
+Tasks Completed
+
+- [API Table](https://www.derekdhammaloka.co.uk/task).
 
 To Do
 
@@ -50,3 +56,7 @@ To Do
 - [Codecademy](https://www.codecademy.com)
 - Nelson Dhlamini (Tutor at IT Career Switch)
 - [Geonames](https://www.geonames.org)
+- [Stack Overflow](https://www.stackoverflow.com)
+- [W3Schools](https://www.w3schools.com)
+- [IONOS](https://www.ionos.co.uk)
+- [Google](https://www.google.co.uk)
