@@ -43,7 +43,7 @@ Once I have completed task, project1 or project2, I email Nelson Dhlamini (nelso
 
 Tasks Completed
 
-- [API Table](https://www.derekdhammaloka.co.uk/task).
+- [API Table](https://www.derekdhammaloka.co.uk/task)
 
 To Do
 
