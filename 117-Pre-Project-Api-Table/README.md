@@ -57,7 +57,11 @@ Uses HTML5, CSS3, JavaScript, jQuery, PHP.
 
 ## Deployment
 
-Used IONOS to host the website.   [API Table](https://www.derekdhammaloka.co.uk/task)
+Used IONOS to host the website.   
+
+[Live Project](https://www.derekdhammaloka.co.uk/task)
+
+A [YouTube Video](https://youtu.be/eRS3LCQJ2XA) is available to demonstrate various inputs for latitude and longitude (Ocean API), Placenames or Attractions (Hierarchy API) and Country Names (Siblings API).
 
 ## Credits
 
