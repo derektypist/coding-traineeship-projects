@@ -22,6 +22,34 @@ Repeat if needed.
 
 **User Stories**
 
+As a user, I can input the latitude and longitude or just accept the selected values.
+
+As a user, I can select the placename or attraction or just accept the selected value.
+
+As a user, I can select the country name or just accept the selected value.
+
+As a user, if I hover over one of the Submit Buttons, the background colour changes.
+
+As a user, if I select the Submit Button for the Ocean API, I can get the distance, geoname ID and name unless the ocean cannot be found.
+
+As a user, if I select the Submit Button for the Hierarchy API, I can get the names and feature codes.
+
+As a user, if I select the Submit Button for the Siblings API, I can get the names and toponym names.
+
+**Information Architecture**
+
+- Latitude is between -90 and 90
+- Longitude is between -180 and 180
+- Placenames or Attractions are Bromley, Beckenham, Chislehurst, London, Cambridge, Cambridge Railway Station, Manea, Menton, Torremolinos, La Bateria Park, Prague and Mustek
+- Country Names are United Kingdom, France, Spain, Germany, Czechia, Portugal, Italy, Ireland, Netherlands, Russia and Turkey
+
+## Features
+
+Allows the user to input latitude and longitude in order to get the distance, geoname ID and name of ocean or sea.  Except when the ocean cannot be found for this latitude and longitude.
+
+Allows the user to select placename or attraction from the dropdown list in order to get the names and feature codes.
+
+Allows the user to select country name from the dropdown list in order to get the names and toponym names.
 
 ## Technologies
 
@@ -29,7 +57,7 @@ Uses HTML5, CSS3, JavaScript, jQuery, PHP.
 
 ## Deployment
 
-Available at [API Table](https://www.derekdhammaloka.co.uk/task)
+Used IONOS to host the website.   [API Table](https://www.derekdhammaloka.co.uk/task)
 
 ## Credits
 
