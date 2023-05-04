@@ -45,9 +45,12 @@ Tasks Completed
 
 - [API Table](https://www.derekdhammaloka.co.uk/task)
 
+In Progress
+
+I am currently working on project1.
+
 To Do
 
-- Complete project1
 - Complete project2
 
 ### Acknowledgements
