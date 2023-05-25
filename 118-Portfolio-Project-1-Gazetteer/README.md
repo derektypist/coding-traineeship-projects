@@ -4,6 +4,8 @@ The aim is to provide an interactive map with the capabilities of searching a co
 
 ## UX
 
+** Information **
+
 - [Current Forecast on Open Weather](Data/openweathercurrent.pdf)
 - [Future Forecasts on Open Weather](Data/openweatherfuture.pdf)
 
