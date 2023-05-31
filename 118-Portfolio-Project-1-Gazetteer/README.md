@@ -13,3 +13,8 @@ The aim is to provide an interactive map with the capabilities of searching a co
 
 HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button
 
+## Credits
+
+### Media
+
+Images taken from [pngegg.com](https://www.pngegg.com)
