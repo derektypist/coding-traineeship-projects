@@ -8,6 +8,7 @@ The aim is to provide an interactive map with the capabilities of searching a co
 
 - [Current Forecast on Open Weather](Data/openweathercurrent.pdf)
 - [Future Forecasts on Open Weather](Data/openweatherfuture.pdf)
+- [Open Exchange Rates](Data/openexchangerates.pdf)
 
 An example of the current weather for Benidorm, ES (Spain) was taken on 9 June 2023.  Metric Units are applied.
 
