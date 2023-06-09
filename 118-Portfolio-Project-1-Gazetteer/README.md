@@ -4,16 +4,18 @@ The aim is to provide an interactive map with the capabilities of searching a co
 
 ## UX
 
-** Information **
+**Information**
 
 - [Current Forecast on Open Weather](Data/openweathercurrent.pdf)
 - [Future Forecasts on Open Weather](Data/openweatherfuture.pdf)
+
+An example of the future weather forecast for Margate, GB (United Kingdom) was taken on 9 June 2023.
 
 ![Future Weather Forecast Example](Data/examplefutureweather.png)
 
 ## Technologies
 
-HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button
+HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button and Marker Clusters
 
 ## Credits
 
