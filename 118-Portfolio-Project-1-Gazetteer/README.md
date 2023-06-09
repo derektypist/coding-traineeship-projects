@@ -9,7 +9,11 @@ The aim is to provide an interactive map with the capabilities of searching a co
 - [Current Forecast on Open Weather](Data/openweathercurrent.pdf)
 - [Future Forecasts on Open Weather](Data/openweatherfuture.pdf)
 
-An example of the future weather forecast for Margate, GB (United Kingdom) was taken on 9 June 2023.
+An example of the current weather for Benidorm, ES (Spain) was taken on 9 June 2023.  Metric Units are applied.
+
+![Current Weather Example](Data/examplecurrentweather.png)
+
+An example of the future weather forecast for Margate, GB (United Kingdom) was taken on 9 June 2023.  Metric Units are applied.
 
 ![Future Weather Forecast Example](Data/examplefutureweather.png)
 
