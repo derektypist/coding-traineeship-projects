@@ -14,9 +14,9 @@ An example of the current weather for Benidorm, ES (Spain) was taken on 9 June 2
 
 ![Current Weather Example](Data/examplecurrentweather.png)
 
-An example of the future weather forecast for Margate, GB (United Kingdom) was taken on 9 June 2023.  Metric Units are applied.
+An example of the future weather forecast for Wisbech, GB (United Kingdom) was taken on 12 June 2023.  Metric Units are applied.
 
-![Future Weather Forecast Example](Data/examplefutureweather.png)
+![Future Weather Forecast Example](Data/examplefutureweather.PNG)
 
 ## Technologies
 
