@@ -18,6 +18,10 @@ An example of the future weather forecast for Wisbech, GB (United Kingdom) was t
 
 ![Future Weather Forecast Example](Data/examplefutureweather.PNG)
 
+An example of country information for Norway.
+
+![examplecountryinfo-1.png](Data/examplecountryinfo-1.png)
+
 ## Technologies
 
 HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button and Marker Clusters
