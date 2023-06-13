@@ -26,6 +26,10 @@ An example of country information for Portugal.
 
 ![examplecountryinfo-2.png](Data/examplecountryinfo-2.png)
 
+An example of country information for Belgium.
+
+![examplecountryinfo-3.png](Data/examplecountryinfo-3.png)
+
 ## Technologies
 
 HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button and Marker Clusters
