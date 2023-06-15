@@ -47,3 +47,4 @@ Images taken from [pngegg.com](https://www.pngegg.com)
 ### Acknowledgements
 
 - [Open Weather Map](https://openweathermap.org)
+- [Geonames](https://www.geonames.org)
