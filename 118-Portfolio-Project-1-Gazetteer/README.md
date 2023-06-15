@@ -30,9 +30,13 @@ An example of country information for Belgium on 13 June 2023.
 
 ![Country Information for Belgium on 13 June 2023](Data/examplecountryinfo-3.png)
 
-An example of the description of an earthquake
+An example of the description of an earthquake in Norway
 
 ![Description of an earthquake](Data/earthquakedescription.png)
+
+An example of hovering over an earthquake
+
+![Hovering Over an Earthquake](Data/earthquakehovering.png)
 
 ## Technologies
 
