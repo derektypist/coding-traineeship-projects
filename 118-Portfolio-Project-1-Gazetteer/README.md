@@ -33,7 +33,7 @@ An example of hovering over an earthquake
 
 An example of the population of a city.
 
-
+![Population of A City](Data/examplecity.png)
 
 ## Technologies
 
