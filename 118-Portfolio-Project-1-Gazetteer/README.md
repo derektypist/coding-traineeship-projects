@@ -19,17 +19,9 @@ An example of the future weather forecast for Wisbech, GB (United Kingdom) was t
 
 ![Future Weather Forecast Example](Data/examplefutureweather.PNG)
 
-An example of country information for Norway on 13 June 2023.
+An example of country information for the United Kingdom was taken on 20 June 2023.
 
-![Country Information for Norway on 13 June 2023](Data/examplecountryinfo-1.png)
-
-An example of country information for Portugal on 13 June 2023.
-
-![Country Information for Portugal on 13 June 2023](Data/examplecountryinfo-2.png)
-
-An example of country information for Belgium on 13 June 2023.
-
-![Country Information for Belgium on 13 June 2023](Data/examplecountryinfo-3.png)
+![Country Information for the United Kingdom on 20 June 2023](Data/examplecountryinfo.png)
 
 An example of the description of an earthquake in Norway
 
