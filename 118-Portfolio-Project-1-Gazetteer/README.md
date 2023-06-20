@@ -35,7 +35,9 @@ An example of the population of a city.
 
 ![Population of A City](Data/examplecity.png)
 
-An example of Nearby Wikipedia.
+An example of Timezone Information on 20 June 2023.
+
+![Timezone Information](Data/exampletimezoneinformation.png)
 
 ## Technologies
 
