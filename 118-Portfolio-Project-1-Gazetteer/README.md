@@ -31,6 +31,10 @@ An example of hovering over an earthquake
 
 ![Hovering Over an Earthquake](Data/earthquakehovering.png)
 
+An example of the population of a city.
+
+
+
 ## Technologies
 
 HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button and Marker Clusters
