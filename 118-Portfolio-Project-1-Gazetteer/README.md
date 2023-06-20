@@ -35,6 +35,8 @@ An example of the population of a city.
 
 ![Population of A City](Data/examplecity.png)
 
+An example of Nearby Wikipedia.
+
 ## Technologies
 
 HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button and Marker Clusters
