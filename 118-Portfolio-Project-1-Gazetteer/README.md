@@ -52,4 +52,5 @@ Images taken from [pngegg.com](https://www.pngegg.com)
 ### Acknowledgements
 
 - [Open Weather Map](https://openweathermap.org)
+- [Open Cage Data](https://opencagedata.com)
 - [Geonames](https://www.geonames.org)
