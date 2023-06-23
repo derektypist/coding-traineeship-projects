@@ -39,6 +39,10 @@ An example of Timezone Information on 20 June 2023.
 
 ![Timezone Information](Data/exampletimezoneinformation.png)
 
+An example of a Weather Observation
+
+![Weather Observation](Data/exampleweatherobservation.png)
+
 ## Technologies
 
 HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button and Marker Clusters
