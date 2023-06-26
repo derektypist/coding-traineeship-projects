@@ -10,6 +10,7 @@ The aim is to provide an interactive map with the capabilities of searching a co
 - [Future Forecasts on Open Weather](Data/openweatherfuture.pdf)
 - [Open Exchange Rates](Data/openexchangerates.pdf)
 - [Open Cage Data for United Kingdom](Data/opencageunitedkingdom.pdf)
+- [UK Cities](Data/ukcities.pdf)
 
 An example of the current weather for Benidorm, ES (Spain) was taken on 9 June 2023.  Metric Units are applied.
 
@@ -57,4 +58,5 @@ Images taken from [pngegg.com](https://www.pngegg.com)
 
 - [Open Weather Map](https://openweathermap.org)
 - [Open Cage Data](https://opencagedata.com)
+- [Open Exchange](https://openexchangerates.org)
 - [Geonames](https://www.geonames.org)
