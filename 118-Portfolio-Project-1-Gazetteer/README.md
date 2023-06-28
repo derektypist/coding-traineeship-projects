@@ -12,11 +12,11 @@ The aim is to provide an interactive map with the capabilities of searching a co
 - [Open Cage Data for United Kingdom](Data/opencageunitedkingdom.pdf)
 - [UK Cities](Data/ukcities.pdf)
 
-An example of the current weather for Neuilly-sur-Seine, France was taken on 27 June 2023.  Metric Units are applied.
+An example of the current weather for Neuilly-sur-Seine, FR (France) was taken on 27 June 2023.  Metric Units are applied.
 
 ![Current Weather Example](Data/examplecurrentweather.PNG)
 
-An example of the future weather forecast for Wisbech, GB (United Kingdom) was taken on 12 June 2023.  Metric Units are applied.
+An example of the future weather forecast for Odda, NO (Norway) was taken on 27 June 2023.  Metric Units are applied.
 
 ![Future Weather Forecast Example](Data/examplefutureweather.PNG)
 
