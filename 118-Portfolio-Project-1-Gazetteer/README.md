@@ -18,6 +18,7 @@ An example of the current weather for Neuilly-sur-Seine, FR (France) was taken o
 
 An example of the future weather forecast for Odda, NO (Norway) was taken on 27 June 2023.  Metric Units are applied.
 
+![Future Weather Example](Data/examplefutureweather.PNG)
 
 An example of country information for Poland was taken on 27 June 2023.
 
