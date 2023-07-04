@@ -50,13 +50,19 @@ An example of a Weather Observation
 
 ## Technologies
 
-HTML5, CSS3, JavaScript, jQuery, Bootstrap, PHP, LeafletJS with Easy Button and Marker Clusters
+HTML5, CSS3, JavaScript, jQuery, Font Awesome, Bootstrap, PHP, LeafletJS with GeoSearch, Easy Button and Marker Clusters.
+
+## Deployment
+
+Used IONOS to host the website.
+
+[Live Project](https://www.derekdhammaloka.co.uk/project1)
 
 ## Credits
 
 ### Media
 
-Images taken from [pngegg.com](https://www.pngegg.com)
+Images taken from [pngegg.com](https://www.pngegg.com) except the star icon, which was created on Paint.
 
 ### Acknowledgements
 
