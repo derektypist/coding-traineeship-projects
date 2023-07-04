@@ -12,7 +12,7 @@ The aim is to provide an interactive map with the capabilities of searching a co
 - [Open Cage Data for United Kingdom](Data/opencageunitedkingdom.pdf)
 - [UK Cities](Data/ukcities.pdf)
 
-An example of the current weather for Neuilly-sur-Seine, FR (France) was taken on 27 June 2023.  Metric Units are applied.
+An example of the current weather for Prees, GB (United Kingdom) was taken on 22 June 2023.  Metric Units are applied.
 
 ![Current Weather Example](Data/examplecurrentweather.PNG)
 
