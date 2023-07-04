@@ -30,7 +30,7 @@ An example of nearby placename with county name omitted on 27 June 2023.
 
 An example of nearby placename with county name shown on 30 June 2023.
 
-
+![Nearby Placename Example - County Name Shown](Data/exampleplacenamewithcounty.png)
 
 An example of the description of an earthquake in Norway
 
