@@ -52,6 +52,10 @@ An example of a Weather Observation
 
 ![Weather Observation](Data/exampleweatherobservation.png)
 
+An Example of Nearby Wikipedia
+
+![Nearby Wikipedia](Data/nearbywikipediaexample.png)
+
 ## Technologies
 
 HTML5, CSS3, JavaScript, jQuery, Font Awesome, Bootstrap, PHP, LeafletJS with GeoSearch, Easy Button and Marker Clusters.
