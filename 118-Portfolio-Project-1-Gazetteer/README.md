@@ -12,6 +12,30 @@ As a user, I want to have current and future weather.
 
 As a user, I want exchange information.
 
+**Getting Started**
+
+This project checks for Geolocation.  Acknowledge any alerts.
+
+When Geolocation has been enabled, the dropdown list for Select A Country is Updated.  For example, if the user's location is United Kingdom, then United Kingdom is the current selection in the Select a Country dropdown list.
+
+- Select Get Country Information to Display Country Information (e.g. Name of Country)
+
+- Select Exchange Information to Get Exchange Information.  Allows user input of number of US Dollars (0-500) and Desired Currency (Default is the Currency of the user's location - for example, if the user's location is United Kingdom, the default currency is GBP).
+
+- Select Current Weather to get Current Weather.
+
+- Select Future Weather to get Future Weather.  Up to 40 readings every 3 hours.
+
+- Select Nearby Wikipedia to get Nearby Wikipedia.
+
+- Select Nearby Placename to get Nearby Placename.
+
+- Select Timezone Information to get Timezone Information.
+
+You can also search by name of country, city, town, village or landmark (e.g. library, railway station, park).
+
+In the dropdown list, you can select a country (e.g. Australia).  This gives any earthquakes, wikipedia articles, weather observations and cities.  Hover over one of the icons to get a brief description.  For example, in the weather observations - name of weather station.
+
 **Information**
 
 - [Current Forecast on Open Weather](Data/openweathercurrent.pdf)
