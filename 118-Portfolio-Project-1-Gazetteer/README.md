@@ -88,6 +88,10 @@ An Example of Nearby Wikipedia
 
 ![Nearby Wikipedia](Data/nearbywikipediaexample.png)
 
+An Example of Sea or Ocean (Taken on 4 July 2023)
+
+![Sea or Ocean](Data/northsea.png)
+
 ## Features
 
 - Select A Country (e.g. United Kingdom)
