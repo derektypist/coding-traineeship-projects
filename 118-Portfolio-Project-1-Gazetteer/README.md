@@ -6,11 +6,11 @@ The aim is to provide an interactive map with the capabilities of searching a co
 
 **User Stories**
 
-As a user, I want country information to include at least name, capital city, population and currency information.
+As a user, I expect country information to include at least name, capital city, population and currency information.
 
-As a user, I want to have current and future weather.
+As a user, I expect current and future weather.
 
-As a user, I want exchange information.
+As a user, I expect exchange information.
 
 **Getting Started**
 
@@ -72,7 +72,7 @@ An example of hovering over an earthquake
 
 ![Hovering Over an Earthquake](Data/earthquakehovering.png)
 
-An example of the population of a city.
+An example of the population of a city.  For illustration purposes only.
 
 ![Population of A City](Data/examplecity.png)
 
@@ -128,3 +128,5 @@ Images taken from [pngegg.com](https://www.pngegg.com) except the star icon, whi
 - [Open Cage Data](https://opencagedata.com)
 - [Open Exchange](https://openexchangerates.org)
 - [Geonames](https://www.geonames.org)
+- [Open Street Map (OSM)](https://www.openstreetmap.org)
+- [Open Street Map (OSM) - Copyright and License](https://www.openstreetmap.org/copyright)
