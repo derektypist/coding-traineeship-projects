@@ -34,7 +34,7 @@ When Geolocation has been enabled, the dropdown list for Select A Country is Upd
 
 You can also search by name of country, city, town, village or landmark (e.g. library, railway station, park).
 
-In the dropdown list, you can select a country (e.g. Australia).  This gives any earthquakes, wikipedia articles, weather observations and cities.  Hover over one of the icons to get a brief description.  For example, in the weather observations - name of weather station.
+In the dropdown list, you can select a country (e.g. Australia).  This gives any earthquakes, Wikipedia articles, weather observations and cities.  Hover over one of the icons to get a brief description.  For example, in the weather observations - name of weather station.
 
 **Information**
 
@@ -91,6 +91,14 @@ An Example of Nearby Wikipedia
 An Example of Sea or Ocean (Taken on 4 July 2023)
 
 ![Sea or Ocean](Data/northsea.png)
+
+- Country Information (Geonames and Open Cage Data)
+- Exchange Information (Open Exchange)
+- Current Weather (Open Weather Map)
+- Future Weather - up to 5 days (Open Weather Map)
+- Nearby Wikipedia (Geonames)
+- Nearby Placename (Geonames and Open Cage Data)
+- Timezone Information (Geonames)
 
 ## Features
 
