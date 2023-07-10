@@ -128,9 +128,12 @@ Images taken from [pngegg.com](https://www.pngegg.com) except the star icon, whi
 
 ### Acknowledgements
 
-- [Open Weather Map](https://openweathermap.org)
-- [Open Cage Data](https://opencagedata.com)
-- [Open Exchange](https://openexchangerates.org)
-- [Geonames](https://www.geonames.org)
+- [Open Weather Map](https://openweathermap.org) for Current and Future Weather Forecasts
+- [Open Cage Data](https://opencagedata.com) for Country Information, Nearby Placename
+- [Open Exchange](https://openexchangerates.org) for Exchange Rates
+- [Geonames](https://www.geonames.org) for Country Information, Nearby Wikipedia, Nearby Placename, Timezone Information, Earthquakes, Weather Observations, Wikipedia Articles and Cities
+- [© Open Street Map (OSM)](https://www.openstreetmap.org/copyright)
 - [Open Street Map (OSM)](https://www.openstreetmap.org)
-- [Open Street Map (OSM) - Copyright and License](https://www.openstreetmap.org/copyright)
+- [pngegg.com](https://www.pngegg.com)
+- [Stack Overflow](https://www.stackoverflow.com)
+- [IONOS](https://www.ionos.co.uk)
