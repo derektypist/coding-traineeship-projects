@@ -14,13 +14,13 @@ As a user, I expect exchange information.
 
 **Getting Started**
 
-This project checks for Geolocation.  Acknowledge any alerts.
+This project checks for Geolocation.
 
-When Geolocation has been enabled, the dropdown list for Select A Country is Updated.  For example, if the user's location is United Kingdom, then United Kingdom is the current selection in the Select a Country dropdown list.
+When Geolocation has been enabled, the dropdown list for Select A Country is Updated.  The country border for that country is displayed.  For example, if the user's location is United Kingdom, then United Kingdom is the current selection in the Select a Country dropdown list.  Information for the selected country on the map is displayed (e.g. Earthquakes).
 
 - Select Get Country Information to Display Country Information (e.g. Name of Country)
 
-- Select Exchange Information to Get Exchange Information.  Allows user input of number of US Dollars (0-500) and Desired Currency (Default is the Currency of the user's location - for example, if the user's location is United Kingdom, the default currency is GBP).
+- Select Exchange Information to Get Exchange Information.  Allows user input of number of US Dollars (0-500) and Desired Currency (Default is the Currency of the user's location - for example, if the user's location is United Kingdom, the default currency is GBP).  To be updated
 
 - Select Current Weather to get Current Weather.
 
@@ -116,11 +116,9 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 - Weather Observations (on Map)
 - Cities (with Population and Wikipedia Article, on Map)
 
-Other features that would be added include Points of Interest (POI) and News.
-
 ## Technologies
 
-HTML5, CSS3, JavaScript, jQuery, Font Awesome, Bootstrap, PHP, LeafletJS with GeoSearch, Easy Button and Marker Clusters.
+HTML5, CSS3, JavaScript, jQuery, Font Awesome, Bootstrap, PHP, LeafletJS with GeoSearch, Easy Button, Marker Clusters and Extra Markers.
 
 ## Deployment
 
@@ -132,7 +130,6 @@ Used IONOS to host the website.
 
 ### Media
 
-Images taken from [pngegg.com](https://www.pngegg.com) except the star icon, which was created on Paint.
 
 ### Acknowledgements
 
@@ -140,8 +137,6 @@ Images taken from [pngegg.com](https://www.pngegg.com) except the star icon, whi
 - [Open Cage Data](https://opencagedata.com) for Country Information, Nearby Placename
 - [Open Exchange](https://openexchangerates.org) for Exchange Rates
 - [Geonames](https://www.geonames.org) for Country Information, Nearby Wikipedia, Nearby Placename, Timezone Information, Earthquakes, Weather Observations, Wikipedia Articles and Cities
-- [© Open Street Map (OSM)](https://www.openstreetmap.org/copyright)
-- [Open Street Map (OSM)](https://www.openstreetmap.org)
-- [pngegg.com](https://www.pngegg.com)
+- [News API](https://newsapi.org)
 - [Stack Overflow](https://www.stackoverflow.com)
 - [IONOS](https://www.ionos.co.uk)
