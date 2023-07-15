@@ -16,11 +16,11 @@ As a user, I expect exchange information.
 
 This project checks for Geolocation.
 
-When Geolocation has been enabled, the dropdown list for Select A Country is Updated.  The country border for that country is displayed.  For example, if the user's location is United Kingdom, then United Kingdom is the current selection in the Select a Country dropdown list.  Information for the selected country on the map is displayed (e.g. Earthquakes).
+When Geolocation has been enabled, the dropdown list for Select A Country is Updated.  The country border for that country is displayed.  For example, if the user's location is United Kingdom, then United Kingdom is the current selection in the Select a Country dropdown list. The selected country is United Kingdom.  Information on the map for the selected country is displayed (e.g. Earthquakes).
 
 - Select Get Country Information to Display Country Information (e.g. Name of Country)
 
-- Select Exchange Information to Get Exchange Information.  Allows user input of number of US Dollars (0-500) and Desired Currency (Default is the Currency of the user's location - for example, if the user's location is United Kingdom, the default currency is GBP).  To be updated
+- Select Exchange Information to Get Exchange Information.  Allows user input of number of US Dollars (0-500) and Desired Currency (Default is the Currency of the user's location - for example, if the user's location is United Kingdom, the default currency is GBP).  To be updated.
 
 - Select Current Weather to get Current Weather.
 
@@ -115,6 +115,10 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 - Wikipedia Articles (on Map)
 - Weather Observations (on Map)
 - Cities (with Population and Wikipedia Article, on Map)
+
+To do - register with a Tile Provider (e.g. ESRI).
+
+
 
 ## Technologies
 
