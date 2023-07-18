@@ -144,3 +144,5 @@ Used IONOS to host the website.
 - [News API](https://newsapi.org)
 - [Stack Overflow](https://www.stackoverflow.com)
 - [IONOS](https://www.ionos.co.uk)
+- Paddy Evans (Head Tutor, Coding & Systems Devlopment)
+- [Corya Silva - Leaflet Extra Markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
