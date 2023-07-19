@@ -1,6 +1,6 @@
 # Gazetteer Project
 
-The aim is to provide an interactive map with the capabilities of searching a country, place or attraction (e.g. park).
+The aim is to provide profiling of countries through the presentation of demographic, climatic, geographic and other data.  There will be an interactive map with the capabilities of searching a country, place or attraction (e.g. park).
 
 ## UX
 
@@ -20,11 +20,11 @@ When Geolocation has been enabled, the dropdown list for Select A Country is Upd
 
 - Select Get Country Information to Display Country Information (e.g. Name of Country)
 
-- Select Exchange Information to Get Exchange Information.  Allows user input of number of US Dollars (0-500) and Desired Currency (Default is the Currency of the user's location - for example, if the user's location is United Kingdom, the default currency is GBP).  To be updated.
+- Select Exchange Information to Get Exchange Information.  Allows user to input the amount (number of units from 1 to 500 in the default currency, e.g. GBP) and the desired currency (e.g. EUR).  When you release the key or change the content of the Amount Field, the result is updated.  When you change the content of the Desired Currency Field, the result is updated.  Result is formatted to 2 decimal places with commas for large numbers (e.g. 1234.56 becomes 1,234.56).  Click on the Clear Button to clear the result.
 
-- Select Current Weather to get Current Weather.
+- Select Current Weather to get Current Weather.  If there is an error, it will display `Error Retrieving Current Weather Information`.
 
-- Select Future Weather to get Future Weather.  Up to 40 readings every 3 hours.
+- Select Future Weather to get Future Weather.  Up to 40 readings.  5 day/3 hour forecast.  If there is an error, it will display `Error Retrieiving Future Weather Information`.
 
 - Select Nearby Wikipedia to get Nearby Wikipedia.
 
@@ -118,11 +118,9 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 
 To do - register with a Tile Provider (e.g. ESRI).
 
-
-
 ## Technologies
 
-HTML5, CSS3, JavaScript, jQuery, Font Awesome, Bootstrap, PHP, LeafletJS with GeoSearch, Easy Button, Marker Clusters and Extra Markers.
+HTML5, CSS3, JavaScript, jQuery, Font Awesome, Bootstrap, PHP, LeafletJS with GeoSearch, Easy Button, Marker Clusters and Extra Markers.  This project makes extensive use of third party APIs (e.g. Open Cage).
 
 ## Deployment
 
