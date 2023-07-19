@@ -99,6 +99,7 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 - Nearby Wikipedia (Geonames)
 - Nearby Placename (Geonames and Open Cage Data)
 - Timezone Information (Geonames)
+- News (News API)
 
 ## Features
 
@@ -109,12 +110,13 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 - Get Current Weather
 - Get Future Weather (Up to 5 days)
 - Get Nearby Wikipedia (Up to 100 Articles)
-- Get Nearby Placename (can include Landmark)
+- Get Nearby Placename (can include landmark, e.g. library)
 - Get Timezone Information
 - Earthquakes (on Map)
-- Wikipedia Articles (on Map)
+- Wikipedia Articles (with Link, on Map)
 - Weather Observations (on Map)
-- Cities (with Population and Wikipedia Article, on Map)
+- Cities (with Population and Wikipedia Link, on Map)
+- News Articles 
 
 To do - register with a Tile Provider (e.g. ESRI).
 
@@ -142,5 +144,7 @@ Used IONOS to host the website.
 - [News API](https://newsapi.org)
 - [Stack Overflow](https://www.stackoverflow.com)
 - [IONOS](https://www.ionos.co.uk)
-- Paddy Evans (Head Tutor, Coding & Systems Devlopment)
+- Paddy Evans (Head Tutor, Coding & Systems Devlopment), including CodePen Suggestions
+- Nelson Dhalmini (Tutor of IT Career Switch)
 - [Corya Silva - Leaflet Extra Markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
+- [Esri](https://www.esri.com) for streets, satellite and topographical maps
