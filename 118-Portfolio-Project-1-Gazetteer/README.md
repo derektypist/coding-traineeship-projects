@@ -44,15 +44,17 @@ In the dropdown list, you can select a country (e.g. Australia).  This gives any
 - [Open Cage Data for United Kingdom](Data/opencageunitedkingdom.pdf)
 - [UK Cities](Data/ukcities.pdf)
 
-An example of the current weather for Prees, GB (United Kingdom) was taken on 22 June 2023.  Metric Units are applied.
+Information in each PDF is for illustration purposes only.
+
+An example of the current weather for Prees, GB (United Kingdom) was taken on 22 June 2023.  Metric Units are applied.  For illustration purposes only.
 
 ![Current Weather Example](Data/examplecurrentweather.PNG)
 
-An example of the future weather forecast for Odda, NO (Norway) was taken on 27 June 2023.  Metric Units are applied.
+An example of the future weather forecast for Odda, NO (Norway) was taken on 27 June 2023.  Metric Units are applied.  For illustration purposes only.
 
 ![Future Weather Example](Data/examplefutureweather.PNG)
 
-An example of country information for Poland was taken on 27 June 2023.
+An example of country information for Poland was taken on 27 June 2023.  For illustration purposes only.
 
 ![Country Information for Poland on 27 June 2023](Data/examplecountryinfo.PNG)
 
