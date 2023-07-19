@@ -6,11 +6,13 @@ The aim is to provide profiling of countries through the presentation of demogra
 
 **User Stories**
 
-As a user, I expect country information to include at least name, capital city, population and currency information.
+As a user, I expect at least the following data:
 
-As a user, I expect current and future weather.
-
-As a user, I expect exchange information.
+- Country Name/Capital City (e.g. United Kingdom/London)
+- Population
+- Currency/Current Exchange Rate
+- Current Weather/Weather Forecast
+- Wikipedia Links
 
 **Getting Started**
 
