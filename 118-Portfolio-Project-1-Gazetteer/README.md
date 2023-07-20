@@ -48,7 +48,7 @@ In the dropdown list, you can select a country (e.g. Australia).  This gives any
 
 Information in each PDF is for illustration purposes only.
 
-An example of the current weather for Prees, GB (United Kingdom) was taken on 22 June 2023.  Metric Units are applied.  For illustration purposes only.
+An example of the current weather for Lingfield, GB (United Kingdom) was taken on 20 July 2023.  Metric Units are applied.  For illustration purposes only.
 
 ![Current Weather Example](Data/examplecurrentweather.PNG)
 
@@ -121,8 +121,6 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 - Weather Observations (on Map)
 - Cities (with Population and Wikipedia Link, on Map)
 - News Articles 
-
-To do - register with a Tile Provider (e.g. ESRI).
 
 ## Technologies
 
