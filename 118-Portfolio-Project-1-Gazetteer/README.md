@@ -52,7 +52,7 @@ An example of the current weather for Prees, GB (United Kingdom) was taken on 22
 
 ![Current Weather Example](Data/examplecurrentweather.PNG)
 
-An example of the future weather forecast for Odda, NO (Norway) was taken on 27 June 2023.  Metric Units are applied.  For illustration purposes only.
+An example of the future weather forecast for Birmingham, GB (United Kingdom) was taken on 20 July 2023.  Metric Units are applied.  For illustration purposes only.
 
 ![Future Weather Example](Data/examplefutureweather.PNG)
 
