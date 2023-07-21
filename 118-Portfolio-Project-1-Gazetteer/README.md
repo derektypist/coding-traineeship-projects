@@ -96,6 +96,10 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 
 ![Sea or Ocean](Data/northsea.png)
 
+Satellite View of the United Kingdom Map
+
+![Satellite View of United Kingdom Map](Data/satelliteview.png)
+
 - Country Information (Geonames and Open Cage Data)
 - Exchange Information (Open Exchange)
 - Current Weather (Open Weather Map)
