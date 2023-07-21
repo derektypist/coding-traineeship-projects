@@ -149,4 +149,5 @@ Used IONOS to host the website.
 - Paddy Evans (Head Tutor, Coding & Systems Devlopment), including CodePen Suggestions
 - Nelson Dhalmini (Tutor of IT Career Switch)
 - [Corya Silva - Leaflet Extra Markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
-- [Esri](https://www.esri.com) for streets, satellite and topographical maps
+- [Esri](https://www.esri.com) for satellite map
+- [Open Street Maps](https://www.openstreetmap.org) including [Copyright Information](https://www.openstreetmap.org/copyright) for Streets, Toner and Positron.
