@@ -104,6 +104,8 @@ Satellite View of the United Kingdom Map
 
 ![Satellite View of United Kingdom Map](Data/satelliteview.png)
 
+Toner View of the United Kingdom Map
+
 - Country Information (Geonames and Open Cage Data)
 - Exchange Information (Open Exchange)
 - Current Weather (Open Weather Map)
