@@ -22,7 +22,7 @@ When Geolocation has been enabled, the dropdown list for Select A Country is Upd
 
 - Select Get Country Information to Display Country Information (e.g. Name of Country)
 
-- Select Exchange Information to Get Exchange Information.  Allows user to input the amount (number of units from 1 to 500 in the default currency, e.g. GBP) and the desired currency (e.g. EUR).  When you release the key or change the content of the Amount Field, the result is updated.  When you change the content of the Desired Currency Field, the result is updated.  Result is formatted to 2 decimal places with commas for large numbers (e.g. 1234.56 becomes 1,234.56).  Click on the Clear Button to clear the result.
+- Select Exchange Information to Get Exchange Information.  Allows user to input the amount (number of units from 1 to 1,000,000 in the default currency, e.g. GBP) and the desired currency (e.g. EUR).  When you release the key or change the content of the Amount Field, the result is updated.  When you change the content of the Desired Currency Field, the result is updated.  Result is formatted to 2 decimal places with commas for large numbers (e.g. 1234.56 becomes 1,234.56).  Click on the Clear Button to clear the result.
 
 - Select Current Weather to get Current Weather.  If there is an error, it will display `Error Retrieving Current Weather Information`.
 
@@ -68,7 +68,7 @@ An example of nearby placename with county name shown on 30 June 2023.
 
 ![Nearby Placename Example - County Name Shown](Data/exampleplacenamewithcounty.png)
 
-An example of the description of an earthquake in Norway
+An example of the description of an earthquake in the United Kingdom.
 
 ![Description of an earthquake](Data/earthquakedescription.png)
 
