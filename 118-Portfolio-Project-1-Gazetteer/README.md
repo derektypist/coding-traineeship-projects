@@ -102,9 +102,11 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 
 Satellite View of the United Kingdom Map
 
-![Satellite View of United Kingdom Map](Data/satelliteview.png)
+![Satellite View of the United Kingdom Map](Data/satelliteview.png)
 
 Toner View of the United Kingdom Map
+
+![Toner View of the United Kingdom Map](Data/tonerview.PNG)
 
 - Country Information (Geonames and Open Cage Data)
 - Exchange Information (Open Exchange)
