@@ -90,7 +90,7 @@ An example of a Weather Observation
 
 An example of a Wikipedia Article
 
-![Wikipedia Article]
+![Wikipedia Article](Data/wikipediaarticle.PNG)
 
 An Example of Nearby Wikipedia
 
