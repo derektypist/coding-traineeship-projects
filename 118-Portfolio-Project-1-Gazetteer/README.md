@@ -74,7 +74,7 @@ An example of the description of an earthquake in the United Kingdom.
 
 An example of hovering over an earthquake
 
-![Hovering Over an Earthquake](Data/earthquakehovering.png)
+![Hovering Over an Earthquake](Data/earthquakehovering.PNG)
 
 An example of the population of a city.  For illustration purposes only.
 
@@ -87,6 +87,10 @@ An example of Timezone Information on 20 June 2023.
 An example of a Weather Observation
 
 ![Weather Observation](Data/exampleweatherobservation.png)
+
+An example of a Wikipedia Article
+
+![Wikipedia Article]
 
 An Example of Nearby Wikipedia
 
