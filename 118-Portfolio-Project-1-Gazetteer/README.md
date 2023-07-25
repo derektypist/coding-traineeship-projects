@@ -92,6 +92,10 @@ An example of a Weather Observation
 
 ![Weather Observation](Data/exampleweatherobservation.png)
 
+An example of hovering over a Weather Observation
+
+![Hovering Over A Weather Observation](Data/exampleweatherobservationhovering.png)
+
 An example of a Wikipedia Article
 
 ![Wikipedia Article](Data/examplewikipediaarticle.PNG)
@@ -149,9 +153,6 @@ Used IONOS to host the website.
 [Live Project](https://www.derekdhammaloka.co.uk/project1)
 
 ## Credits
-
-### Media
-
 
 ### Acknowledgements
 
