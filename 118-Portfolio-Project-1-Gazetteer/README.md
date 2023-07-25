@@ -108,13 +108,17 @@ An Example of Sea or Ocean (Taken on 4 July 2023)
 
 ![Sea or Ocean](Data/northsea.png)
 
-Satellite View of the United Kingdom Map
+Basemap of Satellite - United Kingdom Map
 
 ![Satellite View of the United Kingdom Map](Data/satelliteview.png)
 
-Toner View of the United Kingdom Map
+Basemap of Toner - United Kingdom Map
 
 ![Toner View of the United Kingdom Map](Data/tonerview.PNG)
+
+Basemap of Streets - United Kingdom Map
+
+![Streets for the United Kingdom Map](Data/streetview.png)
 
 - Country Information (Geonames and Open Cage Data)
 - Exchange Information (Open Exchange)
