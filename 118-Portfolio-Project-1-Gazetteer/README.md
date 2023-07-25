@@ -20,6 +20,10 @@ This project checks for Geolocation.
 
 When Geolocation has been enabled, the dropdown list for Select A Country is Updated.  The country border for that country is displayed.  For example, if the user's location is United Kingdom, then United Kingdom is the current selection in the Select a Country dropdown list. The selected country is United Kingdom.  Information on the map for the selected country is displayed (e.g. Earthquakes).
 
+In the Layer Control, the basemaps are Streets, Satellite, Toner and Positron.  Only one basemap can be selected.
+
+The overlays are Eartquakes, Wikipedia Articles, Weather Observations and Cities.  
+
 - Select Get Country Information to Display Country Information (e.g. Name of Country)
 
 - Select Exchange Information to Get Exchange Information.  Allows user to input the amount (number of units from 1 to 1,000,000 in the default currency, e.g. GBP) and the desired currency (e.g. EUR).  When you release the key or change the content of the Amount Field, the result is updated.  When you change the content of the Desired Currency Field, the result is updated.  Result is formatted to 2 decimal places with commas for large numbers (e.g. 1234.56 becomes 1,234.56).  Click on the Clear Button to clear the result.
