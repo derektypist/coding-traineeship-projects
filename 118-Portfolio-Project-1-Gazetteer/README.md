@@ -50,6 +50,8 @@ In the dropdown list, you can select a country (e.g. Australia).  This gives any
 - [Open Cage Data for United Kingdom](Data/opencageunitedkingdom.pdf)
 - [UK Cities](Data/ukcities.pdf)
 
+Need to update weather
+
 Information in each PDF is for illustration purposes only.
 
 An example of the current weather for Lingfield, GB (United Kingdom) was taken on 20 July 2023.  Metric Units are applied.  For illustration purposes only.
@@ -160,6 +162,8 @@ Used IONOS to host the website.
 
 ### Acknowledgements
 
+To change providers for weather and news
+
 - [Open Weather Map](https://openweathermap.org) for Current and Future Weather Forecasts
 - [Open Cage Data](https://opencagedata.com) for Country Information, Nearby Placename
 - [Open Exchange](https://openexchangerates.org) for Exchange Rates
@@ -172,3 +176,4 @@ Used IONOS to host the website.
 - [Corya Silva - Leaflet Extra Markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
 - [Esri](https://www.esri.com) for satellite map
 - [Open Street Maps](https://www.openstreetmap.org) including [Copyright Information](https://www.openstreetmap.org/copyright) for Streets, Toner and Positron.
+
