@@ -32,11 +32,13 @@ The overlays are Eartquakes, Wikipedia Articles, Weather Observations and Cities
 
 - Select Future Weather to get Future Weather.  Up to 40 readings.  5 day/3 hour forecast.  If there is an error, it will display `Error Retrieiving Future Weather Information`.
 
+- Select Nearby Points of Interest to get Nearby Points of Interest (POI).
+
 - Select Nearby Wikipedia to get Nearby Wikipedia.
 
 - Select Nearby Placename to get Nearby Placename.
 
-- Select Timezone Information to get Timezone Information.
+- Select Nearby PostalCodes to get Nearby Postal Codes.
 
 You can also search by name of country, city, town, village or landmark (e.g. library, railway station, park).
 
@@ -126,9 +128,10 @@ Basemap of Streets - United Kingdom Map
 - Exchange Information (Open Exchange)
 - Current Weather (Open Weather Map)
 - Future Weather - up to 5 days (Open Weather Map)
+- Nearby Points of Interest (Geonames)
 - Nearby Wikipedia (Geonames)
 - Nearby Placename (Geonames and Open Cage Data)
-- Timezone Information (Geonames)
+- Nearby Postal Codes (Geonames)
 - News (News API)
 
 ## Features
@@ -139,9 +142,10 @@ Basemap of Streets - United Kingdom Map
 - Get Exchange Information (e.g. US Dollars to British Pounds)
 - Get Current Weather
 - Get Future Weather (Up to 5 days)
+- Get Nearby Points of Interest (Up to 50)
 - Get Nearby Wikipedia (Up to 100 Articles)
 - Get Nearby Placename (can include landmark, e.g. library)
-- Get Timezone Information
+- Get Nearby Postal Codes (Up to 100)
 - Earthquakes (on Map)
 - Wikipedia Articles (with Link, on Map)
 - Weather Observations (on Map)
