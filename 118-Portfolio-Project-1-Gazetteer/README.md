@@ -28,7 +28,7 @@ The overlays are Eartquakes, Wikipedia Articles, Weather Observations and Cities
 
 - Select Exchange Information to Get Exchange Information.  Allows user to input the amount (number of units from 1 to 1,000,000 in the default currency, e.g. GBP) and the desired currency (e.g. EUR).  When you release the key or change the content of the Amount Field, the result is updated.  When you change the content of the Desired Currency Field, the result is updated.  Result is formatted to 2 decimal places with commas for large numbers (e.g. 1234.56 becomes 1,234.56).  Click on the Clear Button to clear the result.
 
-- Select Current Weather to get Current Weather.  If there is an error, it will display `Error Retrieving Current Weather Information`.
+- Select Weather Information to Get Weather Information.  As well as the current weather, there is also a 3 Day Forecast including today.  If there is an error, it will display `Error Retrieving Weather Information`.
 
 - Select Future Weather to get Future Weather.  Up to 40 readings.  5 day/3 hour forecast.  If there is an error, it will display `Error Retrieiving Future Weather Information`.
 
@@ -124,15 +124,14 @@ Basemap of Streets - United Kingdom Map
 
 ![Streets for the United Kingdom Map](Data/streetview.png)
 
-- Country Information (Geonames and Open Cage Data)
+- Country Information (Geonames, Open Cage Data and REST Countries)
 - Exchange Information (Open Exchange)
-- Current Weather (Open Weather Map)
-- Future Weather - up to 5 days (Open Weather Map)
+- Current Weather and Forecast Up to 3 Days (WeatherAPI)
 - Nearby Points of Interest (Geonames)
 - Nearby Wikipedia (Geonames)
 - Nearby Placename (Geonames and Open Cage Data)
 - Nearby Postal Codes (Geonames)
-- News (News API)
+- News (News Data)
 
 ## Features
 
@@ -140,8 +139,7 @@ Basemap of Streets - United Kingdom Map
 - Search a Country, City, Town, Village or Landmark (e.g. Railway Station, Library)
 - Get Information on a Country (e.g. Name of Country, Capital City, Population)
 - Get Exchange Information (e.g. US Dollars to British Pounds)
-- Get Current Weather
-- Get Future Weather (Up to 5 days)
+- Get Current Weather/Weather Forecast (3 Days)
 - Get Nearby Points of Interest (Up to 50)
 - Get Nearby Wikipedia (Up to 100 Articles)
 - Get Nearby Placename (can include landmark, e.g. library)
@@ -166,13 +164,12 @@ Used IONOS to host the website.
 
 ### Acknowledgements
 
-To change providers for weather and news
-
-- [Open Weather Map](https://openweathermap.org) for Current and Future Weather Forecasts
+- [Weather API](https://www.weatherapi.com/) for Current Weather/Weather Forecast
 - [Open Cage Data](https://opencagedata.com) for Country Information, Nearby Placename
 - [Open Exchange](https://openexchangerates.org) for Exchange Rates
 - [Geonames](https://www.geonames.org) for Country Information, Nearby Wikipedia, Nearby Placename, Timezone Information, Earthquakes, Weather Observations, Wikipedia Articles and Cities
-- [News API](https://newsapi.org)
+- [News API](https://www.newsdata.io)
+- [REST Countries](https://restcountries.com)
 - [Stack Overflow](https://www.stackoverflow.com)
 - [IONOS](https://www.ionos.co.uk)
 - Paddy Evans (Head Tutor, Coding & Systems Devlopment), including CodePen Suggestions
