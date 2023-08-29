@@ -89,10 +89,6 @@ An example of the population of a city.  For illustration purposes only.
 
 ![Population of A City](Data/examplecity.png)
 
-An example of Timezone Information on 20 June 2023.
-
-![Timezone Information](Data/exampletimezoneinformation.png)
-
 An example of a Weather Observation
 
 ![Weather Observation](Data/exampleweatherobservation.png)
