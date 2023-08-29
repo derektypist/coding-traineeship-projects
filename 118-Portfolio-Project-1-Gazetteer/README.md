@@ -119,7 +119,7 @@ Basemap of Satellite - United Kingdom Map
 
 Basemap of Toner - United Kingdom Map
 
-![Toner View of the United Kingdom Map](Data/tonerview.PNG)
+![Toner View of the United Kingdom Map](Data/tonerview.png)
 
 Basemap of Streets - United Kingdom Map
 
