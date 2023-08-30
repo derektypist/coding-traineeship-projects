@@ -99,9 +99,9 @@ An example of a Wikipedia Article
 
 ![Wikipedia Article](Data/examplewikipediaarticle.PNG)
 
-An Example of Nearby Wikipedia
+An Example of Nearby Wikipedia.  For illustration purposes only.
 
-![Nearby Wikipedia](Data/nearbywikipediaexample.png)
+![Nearby Wikipedia](Data/nearbywikipedia.png)
 
 An Example of Sea or Ocean (Taken on 4 July 2023)
 
