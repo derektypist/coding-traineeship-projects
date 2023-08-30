@@ -53,17 +53,11 @@ In the dropdown list, you can select a country (e.g. Australia).  This gives any
 - [UK Cities](Data/ukcities.pdf)
 - [News Data in United Kingdom Example](Data/newsdataunitedkingdom.pdf)
 
-Need to update weather
-
 Information in each PDF is for illustration purposes only.
 
-An example of the current weather for Lingfield, GB (United Kingdom) was taken on 20 July 2023.  Metric Units are applied.  For illustration purposes only.
+An example of the weather information for London was taken on 30 August 2023.  For illustration purposes only.
 
-![Current Weather Example](Data/examplecurrentweather.PNG)
-
-An example of the future weather forecast for Birmingham, GB (United Kingdom) was taken on 20 July 2023.  Metric Units are applied.  For illustration purposes only.
-
-![Future Weather Example](Data/examplefutureweather.PNG)
+![Weather Information](Data/weatherinformation.png)
 
 An example of country information for Poland was taken on 27 June 2023.  For illustration purposes only.
 
