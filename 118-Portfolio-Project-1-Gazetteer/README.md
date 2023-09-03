@@ -97,7 +97,7 @@ An example of hovering over a Weather Observation
 
 An example of a Wikipedia Article
 
-![Wikipedia Article](Data/examplewikipediaarticle.PNG)
+![Wikipedia Article](Data/examplewikipediaarticle.png)
 
 An Example of Nearby Wikipedia.  For illustration purposes only.
 
