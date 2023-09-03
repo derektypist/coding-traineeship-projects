@@ -71,11 +71,13 @@ An example of nearby placename with county name shown on 30 June 2023.
 
 ![Nearby Placename Example - County Name Shown](Data/exampleplacenamewithcounty.png)
 
-An example of the description of an earthquake in the United Kingdom.
+
 
 An example of news articles in the United Kingdom on 30 August 2023.  For illustration purposes only.
 
 ![News Articles](Data/newsinformation.png)
+
+An example of a description of an earthquake.  For illustration purposes only.
 
 ![Description of an earthquake](Data/earthquakedescription.png)
 
