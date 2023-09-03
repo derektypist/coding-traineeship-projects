@@ -46,6 +46,7 @@ In the dropdown list, you can select a country (e.g. Australia).  This gives any
 
 **Information**
 
+- [Weather Information for London](Data/weatherinformation.pdf)
 - [Open Exchange Rates](Data/openexchangerates.pdf)
 - [Open Cage Data for United Kingdom](Data/opencageunitedkingdom.pdf)
 - [UK Cities](Data/ukcities.pdf)
