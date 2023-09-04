@@ -100,6 +100,10 @@ An example of a Wikipedia Article
 
 ![Wikipedia Article](Data/examplewikipediaarticle.png)
 
+An example of hovering over a Wikipedia Article Icon
+
+![Hovering Over A Wikipedia Article Icon](Data/examplewikipediaarticlehovering.png)
+
 An Example of Nearby Wikipedia.  For illustration purposes only.
 
 ![Nearby Wikipedia](Data/nearbywikipedia.png)
