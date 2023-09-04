@@ -106,9 +106,9 @@ An Example of Nearby Wikipedia.  For illustration purposes only.
 
 ![Nearby Wikipedia](Data/nearbywikipedia.png)
 
-An Example of Nearby Postal Codes.  For illustration purposes only.
+An Example of Nearby Postal Codes (Showing State, County/Province, District).  For illustration purposes only.
 
-![Nearby Postal Codes](Data/nearbypostalcodes.png)
+![Nearby Postal Codes](Data/nearbypostalcodes3.png)
 
 An Example of Sea or Ocean (Taken on 4 July 2023)
 
