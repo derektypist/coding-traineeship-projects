@@ -112,7 +112,15 @@ An Example of Nearby Wikipedia.  For illustration purposes only.
 
 An Example of Nearby Postal Codes (Showing State, County/Province, District).  For illustration purposes only.
 
-![Nearby Postal Codes](Data/nearbypostalcodes3.png)
+![Nearby Postal Codes - State, County/Province, District](Data/nearbypostalcodes3.png)
+
+An Example of Nearby Postal Codes (Showing State, County/Province).  For illustration purposes only.
+
+![Nearby Postal Codes - State, County/Province](Data/nearbypostalcodes2.png)
+
+An Example of Nearby Postal Codes (Showing State).  For illustration purposes only.
+
+![Nearby Postal Codes - State](Data/nearbypostalcodes1.png)
 
 An Example of Sea or Ocean (Taken on 4 July 2023)
 
