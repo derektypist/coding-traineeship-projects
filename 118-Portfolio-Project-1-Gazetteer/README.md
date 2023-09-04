@@ -78,13 +78,17 @@ An example of a description of an earthquake.  For illustration purposes only.
 
 ![Description of an earthquake](Data/earthquakedescription.png)
 
-An example of hovering over an earthquake
+An example of hovering over an earthquake icon
 
 ![Hovering Over an Earthquake](Data/earthquakehovering.PNG)
 
 An example of the population of a city.  For illustration purposes only.
 
 ![Population of A City](Data/examplecity.png)
+
+An example of hovering over a city icon
+
+![Hovering Over a City Icon](Data/examplecityhovering.png)
 
 An example of a Weather Observation
 
