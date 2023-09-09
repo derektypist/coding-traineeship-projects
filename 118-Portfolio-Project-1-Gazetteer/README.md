@@ -80,7 +80,7 @@ An example of a description of an earthquake.  For illustration purposes only.
 
 An example of hovering over an earthquake icon
 
-![Hovering Over an Earthquake](Data/earthquakehovering.PNG)
+![Hovering Over an Earthquake](Data/earthquakehovering.png)
 
 An example of the population of a city.  For illustration purposes only.
 
