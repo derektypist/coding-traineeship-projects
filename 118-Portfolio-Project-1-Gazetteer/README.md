@@ -2,7 +2,7 @@
 
 The aim is to provide profiling of countries through the presentation of demographic, climatic, geographic and other data.  There will be an interactive map with the capabilities of searching a country, place or attraction (e.g. park).
 
-![Gazetteer](data/unitedkingdommap.png)
+![Gazetteer](Data/unitedkingdommap.png)
 
 ## UX
 
