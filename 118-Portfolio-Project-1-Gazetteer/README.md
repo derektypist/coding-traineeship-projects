@@ -129,6 +129,10 @@ An Example of Nearby Postal Codes (Showing State, County/Province, District).  F
 
 ![Nearby Postal Codes - State, County/Province, District](Data/nearbypostalcodes3.png)
 
+An Example of Nearby Postal Codes with a London Borough.  For illustration purposes only.
+
+![Nearby Postal Codes - London Boroughs](Data/nearbypostalcodeslondon.png)
+
 An Example of Nearby Postal Codes (Showing State, County/Province).  For illustration purposes only.
 
 ![Nearby Postal Codes - State, County/Province](Data/nearbypostalcodes2.png)
