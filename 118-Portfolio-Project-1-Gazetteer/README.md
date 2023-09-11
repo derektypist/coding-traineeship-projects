@@ -32,8 +32,6 @@ The overlays are Eartquakes, Wikipedia Articles, Weather Observations and Cities
 
 - Select Weather Information to Get Weather Information.  As well as the current weather, there is also a 3 Day Forecast including today.  If there is an error, it will display `Error Retrieving Weather Information`.
 
-- Select Future Weather to get Future Weather.  Up to 40 readings.  5 day/3 hour forecast.  If there is an error, it will display `Error Retrieiving Future Weather Information`.
-
 - Select Nearby Points of Interest to get Nearby Points of Interest (POI).
 
 - Select Nearby Wikipedia to get Nearby Wikipedia.
