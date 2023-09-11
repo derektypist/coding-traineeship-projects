@@ -198,5 +198,7 @@ A [You Tube](https://youtu.be/9K-rDQ7rI74) video is available to demonstrate the
 - Nelson Dhalmini (Tutor of IT Career Switch)
 - [Corya Silva - Leaflet Extra Markers](https://github.com/coryasilva/Leaflet.ExtraMarkers)
 - [Esri](https://www.esri.com) for satellite map
+- [Stamen](https://www.stamen.com) for Toner View
+- [Carto](https://www.carto.com) for Positron View
 - [Open Street Maps](https://www.openstreetmap.org) including [Copyright Information](https://www.openstreetmap.org/copyright) for Streets, Toner and Positron.
 
