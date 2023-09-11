@@ -70,6 +70,8 @@ An example of country information for Poland was taken on 27 June 2023.  For ill
 
 An example of nearby placename with county name omitted on 27 June 2023.
 
+
+
 ![Nearby Placename Example - County Name Omitted](Data/exampleplacename.PNG)
 
 An example of nearby placename with county name shown on 30 June 2023.
