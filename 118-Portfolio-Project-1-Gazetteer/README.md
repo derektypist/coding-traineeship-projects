@@ -57,6 +57,7 @@ In the dropdown list, you can select a country (e.g. Australia).  This gives any
 - [Open Cage Data for United Kingdom](Data/opencageunitedkingdom.pdf)
 - [UK Cities](Data/ukcities.pdf)
 - [News Data in United Kingdom Example](Data/newsdataunitedkingdom.pdf)
+- [News Data in France Example](Data/newsdatafrance.pdf)
 
 Information in each PDF is for illustration purposes only.
 
