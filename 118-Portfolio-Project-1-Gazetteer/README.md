@@ -64,13 +64,17 @@ An example of the weather information for London was taken on 30 August 2023.  F
 
 ![Weather Information](Data/weatherinformation.png)
 
+An example of the weather information for Prague, Czech Republic was taken on 11 September 2023.  For illustration purposes only.
+
 An example of country information for Poland was taken on 27 June 2023.  For illustration purposes only.
 
 ![Country Information for Poland on 27 June 2023](Data/examplecountryinfo.PNG)
 
+An example of country information for United Kingdom was taken on 11 September 2023.  Mac Version.  For illustration purposes only.
+
+![Country Information for United Kingdom on 11 September 2023](Data/countryinformationunitedkingdom.png)
+
 An example of nearby placename with county name omitted on 27 June 2023.
-
-
 
 ![Nearby Placename Example - County Name Omitted](Data/exampleplacename.PNG)
 
@@ -78,9 +82,9 @@ An example of nearby placename with county name shown on 30 June 2023.
 
 ![Nearby Placename Example - County Name Shown](Data/exampleplacenamewithcounty.png)
 
-An example of news articles in the United Kingdom on 30 August 2023.  For illustration purposes only.
+An example of news articles in France was taken on 11 September 2023.  For illustration purposes only.
 
-![News Articles](Data/newsinformation.png)
+![News Articles](Data/newsinformationfrance.png)
 
 An example of a description of an earthquake.  For illustration purposes only.
 
