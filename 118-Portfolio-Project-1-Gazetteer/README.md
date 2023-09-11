@@ -67,6 +67,8 @@ An example of the weather information for London was taken on 30 August 2023.  F
 
 An example of the weather information for Prague, Czech Republic was taken on 11 September 2023.  For illustration purposes only.
 
+![Weather Information Czech Republic](Data/weatherinformationczechrepublic.png)
+
 An example of country information for Poland was taken on 27 June 2023.  For illustration purposes only.
 
 ![Country Information for Poland on 27 June 2023](Data/examplecountryinfo.PNG)
