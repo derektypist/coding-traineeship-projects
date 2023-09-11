@@ -61,6 +61,10 @@ In the dropdown list, you can select a country (e.g. Australia).  This gives any
 
 Information in each PDF is for illustration purposes only.
 
+An example of applying GeoSearch.  For illustration purposes only.
+
+![GeoSearch Application](Data/geosearch.png)
+
 An example of the weather information for London was taken on 30 August 2023.  For illustration purposes only.
 
 ![Weather Information](Data/weatherinformation.png)
