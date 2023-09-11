@@ -44,22 +44,28 @@ Once I have completed task, project1 or project2, I email Nelson Dhlamini (nelso
 Tasks Completed
 
 - [API Table](https://www.derekdhammaloka.co.uk/task)
+- [Gazetteer](https://www.derekdhammaloka.co.uk/project1/)
 
 In Progress
 
-I am currently working on project1.
-
-To Do
-
-- Complete project2
+I am currently working on project2.
 
 ### Acknowledgements
 
 - [Atanas Dimitrov](https://github.com/atanas-dim)
 - [Codecademy](https://www.codecademy.com)
 - Nelson Dhlamini (Tutor at IT Career Switch)
+- Paddy Evans (Head Tutor & Coding Systems Development), including CodePen Suggestions
 - [Geonames](https://www.geonames.org)
 - [Stack Overflow](https://www.stackoverflow.com)
 - [W3Schools](https://www.w3schools.com)
 - [IONOS](https://www.ionos.co.uk)
 - [Google](https://www.google.co.uk)
+- [Open Cage Data](https://opencagedata.com/)
+- [Open Exchange Rates](https://openexchangerates.org/)
+- [News API](https://www.newsdata.io/)
+- [REST Countries](https://restcountries.com/)
+- [Esri](https://www.esri.com) for Satellite Map
+- [Stamen](https://www.stamen.com) for Toner View
+- [Carto](https://www.carto.com) for Positron View
+- [Open Street Map](https://www.openstreetmap.org) including [Copyright Information](https://www.openstreetmap.org/copyright) for Streets, Toner and Positron.
