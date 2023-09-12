@@ -65,6 +65,10 @@ An example of applying GeoSearch.  For illustration purposes only.
 
 ![GeoSearch Application](Data/geosearch.png)
 
+An example of exchanging from British Pounds to Euros was taken on 11 September 2023.  For illustration purposes only.
+
+![Exchange Information](Data/exchangeinformation.png)
+
 An example of the weather information for London was taken on 30 August 2023.  For illustration purposes only.
 
 ![Weather Information](Data/weatherinformation.png)
