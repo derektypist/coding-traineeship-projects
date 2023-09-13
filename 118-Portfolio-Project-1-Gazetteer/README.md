@@ -10,6 +10,10 @@ Windows Version
 
 ![Gazetteer - Windows Version](Data/unitedkingdommapwindows.png)
 
+Showing Selection of Basemaps and Overlays
+
+![Gazetteer - Basemaps and Overlays](Data/basemapsandoverlays.png)
+
 ## UX
 
 **User Stories**
