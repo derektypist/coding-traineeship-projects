@@ -178,7 +178,11 @@ Basemap of Streets - United Kingdom Map
 - Nearby Postal Codes (Geonames)
 - News (News Data)
 
+Gazetteer with Country Information Modal
+
 ![Gazetteer with Country Information Modal](Data/countryinformationmodal.png)
+
+Gazetteer with Exchange Modal
 
 ## Features
 
