@@ -184,6 +184,32 @@ Gazetteer with Country Information Modal
 
 Gazetteer with Exchange Modal
 
+![Gazetteer with Exchange Modal](Data/exchangemodal.png)
+
+Gazetteer with Weather Modal
+
+![Gazetteer with Weather Modal](Data/weathermodal.png)
+
+Gazetteer with Nearby Points of Interest Modal
+
+![Gazetteer with Nearby Points of Interest Modal](Data/nearbypoimodal.png)
+
+Gazetteer with Nearby Wikipedia Modal
+
+![Gazetteer with Nearby Wikipedia Modal](Data/nearbywikipediamodal.png)
+
+Gazetteer with Nearby Placename Modal
+
+![Gazetteer with Nearby Placename Modal](Data/nearbyplacenamemodal.png)
+
+Gazetteer with Nearby Postal Codes Modal
+
+![Gazetteer with Nearby Postal Codes Modal](Data/nearbypostalcodesmodal.png)
+
+Gazetteer with News Information Modal
+
+![Gazetteer with News Information Modal](Data/newsinformationmodal.png)
+
 ## Features
 
 - Select A Country (e.g. United Kingdom)
