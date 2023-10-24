@@ -4,7 +4,11 @@ The aim is to provide a company directory that allows the user to create, read, 
 
 ## UX
 
+Database Structure
+
 ![Database Structure](Data/databasestructure.png)
+
+The user interface should ask for a confirmation.
 
 ## Technologies
 
