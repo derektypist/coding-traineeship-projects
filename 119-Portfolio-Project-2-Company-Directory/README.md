@@ -6,3 +6,6 @@ The aim is to provide a company directory that allows the user to create, read, 
 
 ![Database Structure](Data/databasestructure.png)
 
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, Bootstrap 5.3.2 and Font Awesome 6.4.2
