@@ -4,8 +4,5 @@ The aim is to provide a company directory that allows the user to create, read, 
 
 ## UX
 
-Personnel Table consists of First Name, Last Name, Job Title, Email Address and Department ID.
+![Database Structure](Data/databasestructure.png)
 
-Departments Table consists of Name
-
-Locations Table consists of Name
