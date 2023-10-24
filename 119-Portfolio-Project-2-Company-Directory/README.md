@@ -8,7 +8,7 @@ Database Structure
 
 ![Database Structure](Data/databasestructure.png)
 
-The user interface should ask for a confirmation.
+The user interface should ask for a confirmation (To Do).
 
 ## Technologies
 
