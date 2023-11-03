@@ -8,11 +8,11 @@ Database Structure
 
 ![Database Structure](Data/databasestructure.png)
 
-The user interface should ask for a confirmation (To Do).
+The user interface should ask for a confirmation - done for add, filter.
 
-Done - Add, Filter
+Done - Add, Filter, Search, Delete (PHP Only) and Update (PHP Only)
 
-To Do - Search, Update and Delete
+To Do - Update and Delete (JavaScript Only)
 
 ## Technologies
 
