@@ -12,6 +12,8 @@ The user interface should ask for a confirmation - done for add, filter.
 
 Done - Add, Filter, Search, Delete (PHP Only) and Update (PHP Only)
 
+In Progress - Creating Submit Event to Edit Personnel Form
+
 To Do - Update and Delete (JavaScript Only)
 
 ## Technologies
