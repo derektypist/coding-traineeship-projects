@@ -10,9 +10,9 @@ Database Structure
 
 The user interface should ask for a confirmation - done for add, filter.
 
-Done - Add, Filter, Search, Delete (Except Location has Departments) and Update
+Done - Add, Filter, Search, Delete and Update
 
-To Do - Check if Location has Departments (PHP and JavaScript).  Perform click events on the Delete Location Button.
+To Do - Try it Out
 
 ## Technologies
 
