@@ -12,6 +12,8 @@ The user interface should ask for a confirmation - done for add, filter.
 
 Done - Add, Filter, Search, Delete and Update
 
+Updated connection details (e.g. host) for the database
+
 To Do - Try it Out
 
 ## Technologies
