@@ -8,13 +8,9 @@ Database Structure
 
 ![Database Structure](Data/databasestructure.png)
 
-The user interface should ask for a confirmation - done for add, filter.
+The user interface should ask for a confirmation.
 
-Done - Add, Filter, Search, Delete and Update
-
-Updated connection details (e.g. host) for the database
-
-To Do - Try it Out
+To Do - Connect PHP Scripts to the Database
 
 ## Technologies
 
