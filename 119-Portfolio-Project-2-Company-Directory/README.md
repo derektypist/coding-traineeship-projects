@@ -15,3 +15,8 @@ To Do - Connect PHP Scripts to the Database
 ## Technologies
 
 Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, Bootstrap 5.3.2 and Font Awesome 6.4.2
+
+## Deployment
+
+Used IONOS to host the website.
+
