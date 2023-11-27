@@ -10,7 +10,11 @@ Database Structure
 
 The user interface should ask for a confirmation.
 
+Example of Audit Log (For Illustration Purposes Only)
+
 ![Audit Log](Data/auditlogmodal.png)
+
+
 
 To Do - Connect PHP Scripts to the Database
 
