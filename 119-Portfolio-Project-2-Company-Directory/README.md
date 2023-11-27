@@ -10,6 +10,8 @@ Database Structure
 
 The user interface should ask for a confirmation.
 
+Add Location Modal (For Illustration Purposes Only)
+
 ![Add Location Modal](Data/addlocationmodal.png)
 
 Example of Audit Log (For Illustration Purposes Only)
