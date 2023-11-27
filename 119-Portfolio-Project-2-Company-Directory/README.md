@@ -10,6 +10,8 @@ Database Structure
 
 The user interface should ask for a confirmation.
 
+![Audit Log](Data/auditlogmodal.png)
+
 To Do - Connect PHP Scripts to the Database
 
 ## Technologies
