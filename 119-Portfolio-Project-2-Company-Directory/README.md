@@ -19,7 +19,7 @@ Example of Audit Log (For Illustration Purposes Only)
 ![Audit Log](Data/auditlogmodal.png)
 
 
-To Do - Connect PHP Scripts to the Database
+To Do - Connect PHP Scripts to the Database.  Set up virtual private server.
 
 ## Technologies
 
