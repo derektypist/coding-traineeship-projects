@@ -23,7 +23,7 @@ To Do - Connect PHP Scripts to the Database.  Set up virtual private server.
 
 ## Technologies
 
-Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, Bootstrap 5.3.2 and Font Awesome 6.4.2
+Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.19.5, Bootstrap 5.3.2 and Font Awesome 6.4.2
 
 ## Deployment
 
