@@ -29,3 +29,7 @@ Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.1
 
 Used IONOS to host the website.
 
+## Acknowledgements
+
+- [Market Splash](https://www.marketsplash.com)
+- [Sitepoint](https://www.sitepoint.com)
