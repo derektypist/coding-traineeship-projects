@@ -19,7 +19,7 @@ Example of Audit Log (For Illustration Purposes Only)
 ![Audit Log](Data/auditlogmodal.png)
 
 
-To Do - Connect PHP Scripts to the Database.  Set up virtual private server.
+To Do - Connect PHP Scripts to the Database.
 
 ## Technologies
 
@@ -27,7 +27,7 @@ Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.2
 
 ## Deployment
 
-Used IONOS to host the website.
+Used IONOS to host the website.  A virtual private server (VPS) has been set up.  Make sure the configurations in `config.php` are updated.  Used Plesk to store database.
 
 ## Acknowledgements
 
