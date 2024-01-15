@@ -27,7 +27,11 @@ Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.2
 
 ## Deployment
 
-Used IONOS to host the website.  A virtual private server (VPS) has been set up.  Make sure the configurations in `config.php` are updated.  Used Plesk to store database.
+Used IONOS to host the website.  A virtual private server (VPS) has been set up.  Make sure the configurations (e.g. host) in `config.php` are updated. 
+
+In Plesk, go to DNS Settings.
+
+Refer to [Putting Your Website Online - IONOS](https://docs.plesk.com/en-US/obsidian/administrator-guide/72225/#ionos)
 
 ## Acknowledgements
 
