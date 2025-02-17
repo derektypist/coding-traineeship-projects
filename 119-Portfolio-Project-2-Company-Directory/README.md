@@ -27,10 +27,17 @@ Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.2
 
 Used IONOS to host the website.  A virtual private server has been set up.  
 
-- A LAMP Stack has been created
+- The A and AAAA records have been modified to point to the virtual private server (VPS).
+- A LAMP Stack has been created.
+    - To test PHP scripts with Apache, create `info.php` using the command `sudo nano /var/www/yourdomain/info.php`, replacing `yourdomain` with the name of your domain.
+    - Paste the following PHP code into the file `<?php phpinfo(); ?>`
+    - In the browser address bar enter `http://www.yourdomain/info.php` to see the PHP information.  Print it out (PDF or paper).
+    - Once the PHP information has been printed out, delete `info.php`, using `sudo rm /var/www/yourdomain/info.php`.
 - Firewall Policies have been set up (e.g. Allow Port 3306)
-- Make sure the configurations in `config.php` are updated and the credentials are set correctly.  On a Virtual Machine (VPS), Host is set to `127.0.0.1` and the user is set to anyone other than `root`, with privileges such as adding records.
+- Log on to MariaDB, using the command `sudo mariadb -u root -p`.  Once in MariaDB, create a user other than `root`.  Grant privileges to the user that has just been created.
+- Make sure the configurations in `config.php` are updated and the credentials are set correctly.  On a Virtual Machine (VPS), Host is set to `127.0.0.1` and the user is set to anyone other than `root`, for example `cduser`, with privileges such as adding records.
 - Let's Encrypt Certificate has been installed.
+
 
 ## Acknowledgements
 
