@@ -30,8 +30,9 @@ Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.2
 
 Used IONOS to host the website.  A virtual private server has been set up.  
 
-- The A and AAAA records have been modified to point to the virtual private server (VPS).
+- The A and AAAA records have been modified to point to the virtual private server (VPS).  It is a good idea to make a note of the current DNS records before making any changes.  Take a screenshot or write down the details of the A and AAAA records, including the IP addresses.  
 - A LAMP Stack has been created.
+    - Include MariaDB, Common PHP Modules such as PHP-Curl
     - To test PHP scripts with Apache, create `info.php` using the command `sudo nano /var/www/yourdomain/info.php`, replacing `yourdomain` with the name of your domain.
     - Paste the following PHP code into the file `<?php phpinfo(); ?>`
     - In the browser address bar enter `http://www.yourdomain/info.php` to see the PHP information.  Print it out (PDF or paper).
@@ -40,6 +41,12 @@ Used IONOS to host the website.  A virtual private server has been set up.
 - Log on to MariaDB, using the command `sudo mariadb -u root -p`.  Once in MariaDB, create a user other than `root`.  Grant privileges to the user that has just been created.
 - Make sure the configurations in `config.php` are updated and the credentials are set correctly.  On a Virtual Machine (VPS), Host is set to `127.0.0.1` and the user is set to anyone other than `root`, for example `cduser`, with privileges such as adding records.
 - Let's Encrypt Certificate has been installed.
+
+Any future databases, create new user (other than root) and new database.  Enter `use mydatabase`, replacing `mydatabase` is the name of the database you want to use.  Either use `source mydatabase.sql;` or create table(s) from scratch.
+
+Digital Ocean Tutorials
+
+= [Securing Apache with Let's Encrypt on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu)
 
 
 ## Acknowledgements
