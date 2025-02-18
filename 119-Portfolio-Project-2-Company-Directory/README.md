@@ -19,6 +19,7 @@ Example of Audit Log (For Illustration Purposes Only)
 ![Audit Log](Data/auditlogmodal.png)
 
 Example of Personnel Table (For Illustration Purposes Only)
+
 ![Personnel Table](Data/companydirectorypersonnel.png)
 
 
@@ -46,7 +47,10 @@ Any future databases, create new user (other than root) and new database.  Enter
 
 Digital Ocean Tutorials
 
-= [Securing Apache with Let's Encrypt on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu)
+References to Ubuntu 22.04 also apply to Ubuntu 24.04.
+
+- [Securing Apache with Let's Encrypt on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu)
+- [Installing Apache Web Server on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
 
 
 ## Acknowledgements
