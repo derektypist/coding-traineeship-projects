@@ -53,6 +53,10 @@ References to Ubuntu 22.04 also apply to Ubuntu 24.04.
 - [Installing Apache Web Server on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
 
 
+Apache Default Welcome Page (For Illustration Purposes Only)
+
+![Welcome Page](Data/ubuntudefaultwelcomepage.png)
+
 Successful Installation of LAMP Stack
 
 ![PHP Information](Data/phpinformation.png)
