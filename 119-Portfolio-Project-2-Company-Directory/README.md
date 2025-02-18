@@ -55,7 +55,7 @@ References to Ubuntu 22.04 also apply to Ubuntu 24.04.
 
 Successful Installation of LAMP Stack
 
-[PHP Information](Data/phpinformation.png)
+![PHP Information](Data/phpinformation.png)
 
 
 
