@@ -18,6 +18,9 @@ Example of Audit Log (For Illustration Purposes Only)
 
 ![Audit Log](Data/auditlogmodal.png)
 
+Example of Personnel Table (For Illustration Purposes Only)
+![Personnel Table](Data/companydirectorypersonnel.png)
+
 
 ## Technologies
 
