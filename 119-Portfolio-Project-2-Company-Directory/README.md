@@ -33,7 +33,7 @@ Used IONOS to host the website.  A virtual private server has been set up.
 
 - The A and AAAA records have been modified to point to the virtual private server (VPS).  It is a good idea to make a note of the current DNS records before making any changes.  Take a screenshot or write down the details of the A and AAAA records, including the IP addresses.  
 - A LAMP Stack has been created.
-    - Include MariaDB, Common PHP Modules such as PHP-Curl
+    - Include MariaDB and Common PHP Modules such as PHP-Curl.
     - To test PHP scripts with Apache, create `info.php` using the command `sudo nano /var/www/yourdomain/info.php`, replacing `yourdomain` with the name of your domain.
     - Paste the following PHP code into the file `<?php phpinfo(); ?>`
     - In the browser address bar enter `http://www.yourdomain/info.php` to see the PHP information.  Print it out (PDF or paper).
@@ -51,6 +51,12 @@ References to Ubuntu 22.04 also apply to Ubuntu 24.04.
 
 - [Securing Apache with Let's Encrypt on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu)
 - [Installing Apache Web Server on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04)
+
+
+Successful Installation of LAMP Stack
+
+[PHP Information](Data/phpinformation.png)
+
 
 
 ## Acknowledgements
