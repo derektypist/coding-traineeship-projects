@@ -33,7 +33,7 @@ Example of Department Table (For Illustration Purposes Only)
 
 ## Technologies
 
-Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.20.0, Bootstrap 5.3.2 and Font Awesome 6.4.2
+Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.21.0, Bootstrap 5.3.2 and Font Awesome 6.4.2
 
 ## Deployment
 
