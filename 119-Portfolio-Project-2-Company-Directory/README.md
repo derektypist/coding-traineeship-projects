@@ -22,6 +22,10 @@ Example of Personnel Table (For Illustration Purposes Only)
 
 ![Personnel Table](Data/companydirectorypersonnel.png)
 
+Example of Department Table (For Illustration Purposes Only)
+
+
+
 
 ## Technologies
 
