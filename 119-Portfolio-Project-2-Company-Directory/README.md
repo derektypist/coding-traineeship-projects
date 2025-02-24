@@ -26,10 +26,13 @@ Example of Personnel Table with Search Applied (For Illustration Purposes Only)
 
 ![Personnel Table with Search](Data/companydirectorypersonnelsearch.png)
 
-Example of Department Table (For Illustration Purposes Only)
+Example of Departments Table (For Illustration Purposes Only)
 
 ![Departments Table](Data/companydirectorydepartments.png)
 
+Example of Departments Table with Search Applied (For Illustration Purposes Only)
+
+![Departments Table with Search](Data/companydirectorydepartmentssearch.png)
 
 ## Technologies
 
