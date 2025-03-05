@@ -80,10 +80,9 @@ Successful Installation of LAMP Stack
 
 ![PHP Information](Data/phpinformation.png)
 
-
-
 ## Acknowledgements
 
 - [Market Splash](https://www.marketsplash.com)
 - [Sitepoint](https://www.sitepoint.com)
 - [Digital Ocean](https://www.digitalocean.com)
+- [SaturnCloud](https://saturncloud.io/blog/how-can-i-validate-an-email-address-using-a-regular-expression/)
