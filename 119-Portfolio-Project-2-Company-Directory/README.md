@@ -42,9 +42,21 @@ Examples of Locations Table with Search Applied (For Illustration Purposes Only)
 
 ![Locations Table with Search](Data/companydirectorylocationssearch.png)
 
+Example of Personnel Table with Add Employee Modal (For Illustration Purposes Only)
+
+![Personnel Table with Add Employee Modal](Data/addemployeemodal.png)
+
+Example of Departments Table with Add Department Modal (For Illustration Purposes Only)
+
+![Departments Table with Add Department Modal](Data/adddepartmentmodal.png)
+
+Example of Locations Table with Add Location Modal (For Illustration Purposes Only)
+
+![Locations Table with Add Location Modal](Data/locationdataandaddlocationmodal.png)
+
 ## Technologies
 
-Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, jQuery Form Validation 1.21.0, Bootstrap 5.3.2 and Font Awesome 6.4.2
+Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, Bootstrap 5.3.2 and Font Awesome 6.4.2
 
 ## Deployment
 
@@ -63,6 +75,23 @@ Used IONOS to host the website.  A virtual private server has been set up.
 - Let's Encrypt Certificate has been installed.
 
 Any future databases, create new user (other than root) and new database.  Enter `use mydatabase`, replacing `mydatabase` is the name of the database you want to use.  Either use `source mydatabase.sql;` or create table(s) from scratch.
+
+Logging in to the VPS
+
+- If using Windows, open `Command Prompt`.  If using Mac or Linux, open `Terminal`.
+- Type the command `ssh root@youripaddress`, where `youripaddress` is your IP address.
+- You will be asked to enter the password
+
+Logging out of the VPS
+
+- In `Command Prompt` (Windows) or `Terminal` (Mac/Linux) type the command `exit`
+
+Keeping the VPS Up To Date
+
+Use Commands
+
+- `sudo apt update`
+- `sudo apt upgrade`
 
 Digital Ocean Tutorials
 
