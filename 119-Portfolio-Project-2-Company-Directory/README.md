@@ -76,24 +76,24 @@ Used IONOS to host the website.  A virtual private server has been set up.
 
 Any future databases, create new user (other than root) and new database.  Enter `use mydatabase`, replacing `mydatabase` is the name of the database you want to use.  Either use `source mydatabase.sql;` or create table(s) from scratch.
 
-Logging in to the VPS
+**Logging in to the VPS**
 
 - If using Windows, open `Command Prompt`.  If using Mac or Linux, open `Terminal`.
 - Type the command `ssh root@youripaddress`, where `youripaddress` is your IP address.
 - You will be asked to enter the password
 
-Logging out of the VPS
+**Logging out of the VPS**
 
 - In `Command Prompt` (Windows) or `Terminal` (Mac/Linux) type the command `exit`
 
-Keeping the VPS Up To Date
+**Keeping the VPS Up To Date**
 
 Use Commands
 
 - `sudo apt update`
 - `sudo apt upgrade`
 
-Digital Ocean Tutorials
+**Digital Ocean Tutorials**
 
 References to Ubuntu 22.04 also apply to Ubuntu 24.04.
 
