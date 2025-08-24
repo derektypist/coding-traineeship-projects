@@ -62,6 +62,10 @@ Example of Departments Table with Edit Department Modal (For Illustration Purpos
 
 ![Departments Table with Edit Department Modal](Data/editdepartmentmodal.png)
 
+Example of Locations Table with Edit Location Modal (For Illustration Purposes Only)
+
+![Locations Table with Edit Location Modal](Data/editlocationmodal.png)
+
 ## Technologies
 
 Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, Bootstrap 5.3.2 and Font Awesome 6.4.2
