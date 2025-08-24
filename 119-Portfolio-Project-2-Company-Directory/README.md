@@ -60,6 +60,8 @@ Example of Personnel Table with Edit Employee Modal (For Illustration Purposes O
 
 Example of Departments Table with Edit Department Modal (For Illustration Purposes Only)
 
+![Departments Table with Edit Department Modal](Data/editdepartmentmodal.png)
+
 ## Technologies
 
 Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, Bootstrap 5.3.2 and Font Awesome 6.4.2
