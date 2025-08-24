@@ -58,6 +58,7 @@ Example of Personnel Table with Edit Employee Modal (For Illustration Purposes O
 
 ![Personnel Table with Edit Employee Modal](Data/editemployeemodal.png)
 
+Example of Departments Table with Edit Department Modal (For Illustration Purposes Only)
 
 ## Technologies
 
