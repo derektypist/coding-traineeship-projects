@@ -54,6 +54,11 @@ Example of Locations Table with Add Location Modal (For Illustration Purposes On
 
 ![Locations Table with Add Location Modal](Data/locationdataandaddlocationmodal.png)
 
+Example of Personnel Table with Edit Employee Modal (For Illustration Purposes Only)
+
+![Personnel Table with Edit Employee Modal](Data/editemployeemodal.png)
+
+
 ## Technologies
 
 Uses HTML5, CSS3, JavaScript, PHP, SQL, jQuery 3.7.1, Bootstrap 5.3.2 and Font Awesome 6.4.2
