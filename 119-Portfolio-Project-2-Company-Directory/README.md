@@ -105,6 +105,10 @@ Use Commands
 - `sudo apt update`
 - `sudo apt upgrade`
 
+**History Commands**
+
+While being logged on to the VPS, use the command `history` to get a history of the commands.  To repeat a command, use the command `!number`, where `number` is the number on the command.  For example, if command number 1000, was `df -h`, typing `!1000` repeats the command `df -h`.
+
 **Digital Ocean Tutorials**
 
 References to Ubuntu 22.04 also apply to Ubuntu 24.04.
